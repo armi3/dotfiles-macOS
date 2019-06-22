@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-dotfiles_git=(".gitignore" ".gitconfig")
+dotfiles_git=(".gitignore_global" ".gitconfig")
 dotfiles_runcoms=(".vimrc" ".zshrc")
 
 dir_git="${HOME}/dotfiles-macOS/git"
