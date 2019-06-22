@@ -11,6 +11,13 @@
 [core]
 	editor = vim
 	excludesfile = $DOTFILES/git/.gitignore
+	# Prevent showing files whose names contain non-ASCII symbols as unversioned.
+	# http://michael-kuehnel.de/git/2014/11/21/git-mac-osx-and-german-umlaute.html
+	precomposeunicode = false
+
+	# Speed up commands involving untracked files such as `git status`.
+	# https://git-scm.com/docs/git-update-index#_untracked_cache
+	untrackedCache = true
 
 [credential]
 	helper = osxkeychain
@@ -19,6 +26,7 @@
 	postBuffer = 157286400
 
 [alias]
+	p = push
 	# View abbreviated SHA, description, and history graph of the latest 20 commits
 	l = log --pretty=oneline -n 20 --graph --abbrev-commit
 
@@ -27,4 +35,12 @@
 
 	# Commit all changes
 	ca = !git add -A && git commit -m
+
+	# Show verbose output about tags, branches or remotes
+	tags = tag -l
+	branches = branch -a
+	remotes = remote -v
+
+	# List aliases
+	aliases = config --get-regexp alias
 
