@@ -1,0 +1,15 @@
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+[user]
+	name = armi3
+	email = fernandagonzalez@ufm.edu
+[core]
+	editor = nano
+	excludesfile = /Users/baroness/.gitignore
+[credential]
+	helper = osxkeychain
+[http]
+	postBuffer = 157286400
