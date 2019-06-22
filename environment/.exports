@@ -2,7 +2,7 @@ export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
 
 export DOTFILES=$HOME/dotfiles-macOS
 
-export ZSH=$DOTFILES/shell-runcom
+export ZSH=$HOME/.oh-my-zsh
 
 export EDITOR='vim'
 
