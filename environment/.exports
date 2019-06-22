@@ -1,0 +1,18 @@
+export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
+
+export DOTFILES=$HOME/dotfiles-macOS
+
+export ZSH=$DOTFILES/shell-runcom
+
+export EDITOR='vim'
+
+export MANPATH=/usr/local/man
+
+# Prefer US English and use UTF-8.
+export LANG='en_US.UTF-8';
+export LC_ALL='en_US.UTF-8';
+
+# fpath (found in .zshrc)
+# fpath=(/usr/local/share/zsh-completions $fpath)
+# /Users/baroness/.oh-my-zsh/plugins/osx /Users/baroness/.oh-my-zsh/plugins/brew /Users/baroness/.oh-my-zsh/plugins/python /Users/baroness/.oh-my-zsh/plugins/pip /Users/baroness/.oh-my-zsh/plugins/colorize /Users/baroness/.oh-my-zsh/plugins/git /Users/baroness/.oh-my-zsh/functions /Users/baroness/.oh-my-zsh/completions /usr/local/share/zsh-completions /usr/local/share/zsh/site-functions /usr/share/zsh/site-functions /usr/share/zsh/5.3/functions
+

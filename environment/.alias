@@ -1,0 +1,25 @@
+alias ,="sudo"
+alias g="git"
+alias rr="rm -rf"
+alias ls="ls -la"
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias clean-ds="find . -type f -name '*.DS_Store' -ls -delete"
+
+alias tree="tree -A"
+alias treed="tree -d"
+alias tree1="tree -d -L 1"
+alias tree2="tree -d -L 2"
+
+# List declared aliases, functions, paths
+alias aliases="alias | sed 's/=.*//'"
+alias functions="declare -f | grep '^[a-z].* ()' | sed 's/{$//'"
+alias paths='echo -e ${PATH//:/\\n}'
+
+# npm
+alias ni="npm install"
+alias nu="npm uninstall"
+alias nup="npm update"
+alias nri="rm -r node_modules && npm install"
+alias ncd="npm-check -su"
