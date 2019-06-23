@@ -3,8 +3,6 @@ alias g="git"
 alias rr="rm -rf"
 alias l="ls -la"
 alias ..="cd .."
-alias ...="cd ../.."
-alias ....="cd ../../.."
 alias clean-ds="find . -type f -name '*.DS_Store' -ls -delete"
 alias reload="$DOTFILES/scripts/reload.sh"
 
@@ -15,7 +13,7 @@ alias tree2="tree -d -L 2"
 
 # List declared aliases, functions, paths
 alias aliases="alias | sed 's/=.*//'"
-alias functions="declare -f | grep '^[a-z].* ()' | sed 's/{$//'"
+# alias functions="declare -f | grep '^[a-z].* ()' | sed 's/{$//'"
 alias paths='echo -e ${PATH//:/\\n}'
 
 # npm

@@ -1,7 +1,13 @@
+export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
+export DOTFILES=$HOME/dotfiles-macOS
+export ZSH=$HOME/.oh-my-zsh
+
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="rkj-repos"
+ZSH_THEME="wedisagree"
+
+
 
 # Set list of themes to load
 # Setting this variable when ZSH_THEME=random
@@ -56,12 +62,13 @@ HIST_STAMPS="yyyy-mm-dd"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  git colored-man colorize pip python brew osx zsh-syntax-highlighting
-
+  colored-man-pages colorize pip python osx emoji mosh node redis-cli vim-interaction
 )
 
 source $ZSH/oh-my-zsh.sh
-
+source $DOTFILES/environment/.alias
+source $DOTFILES/environment/.functions.sh
+source $DOTFILES/environment/.exports
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
