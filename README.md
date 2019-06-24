@@ -1,5 +1,5 @@
 # dotfiles-macOS
-🥟 My .files setup for macOS.
+🥟 My .files setup for macOS and some automation scripts. Work in progress.
 
 ```
 ├── README.md
