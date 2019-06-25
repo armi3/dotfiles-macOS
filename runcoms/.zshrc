@@ -62,7 +62,7 @@ HIST_STAMPS="yyyy-mm-dd"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  colored-man-pages colorize pip python osx emoji mosh node redis-cli vim-interaction
+  colored-man-pages colorize pip python osx emoji mosh node redis-cli vim-interaction brew
 )
 
 source $ZSH/oh-my-zsh.sh
