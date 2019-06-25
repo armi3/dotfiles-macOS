@@ -4,7 +4,8 @@
 
 # zle -al for options
 
-bindkey "^?"	backward-kill-word 
+bindkey "^?" 	backward-delete-char
+bindkey "^p"	backward-kill-word 
 bindkey "^k"	kill-whole-line
 bindkey "^h" 	backward-word
 bindkey "^l" 	forward-word
