@@ -69,6 +69,7 @@ source $ZSH/oh-my-zsh.sh
 source $DOTFILES/environment/.alias
 source $DOTFILES/environment/.functions.sh
 source $DOTFILES/environment/.exports
+source $DOTFILES/environment/.bindkeys
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then

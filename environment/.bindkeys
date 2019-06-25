@@ -1,0 +1,12 @@
+# To see the key combo you want to use just do:
+# cat > /dev/null
+# And press it
+
+# zle -al for options
+
+bindkey "^?"	backward-kill-word 
+bindkey "^k"	kill-whole-line
+bindkey "^h" 	backward-word
+bindkey "^l" 	forward-word
+bindkey "^ñ" 	clear-screen
+bindkey "^ "	quote-region
