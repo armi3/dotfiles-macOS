@@ -1,5 +1,5 @@
 # dotfiles-macOS
-🥟 My .files setup for macOS and some automation scripts. Work in progress.
+🥟 My .files setup for vim and zsh on macOS. Also general environment configurations and some automation scripts. Work in constant progress.
 
 ```
 ├── README.md
