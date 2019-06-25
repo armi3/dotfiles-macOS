@@ -5,6 +5,7 @@
 ├── README.md
 ├── environment
 │   ├── .alias
+│   ├── .bindkeys
 │   ├── .exports
 │   ├── .functions.sh
 │   └── .macOS
