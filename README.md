@@ -4,7 +4,10 @@
 ```
 ├── README.md
 ├── dependencies
-│   └── Brewfile
+│   ├── Brewfile
+│   └── mackup
+│       ├── .mackup.cfg
+│       └── Library
 ├── environment
 │   ├── .alias
 │   ├── .bindkeys
