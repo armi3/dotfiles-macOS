@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="TestCalendar" type="JAVA" />
+      <mapping pattern="TestCalendar.java" type="SVG" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,48 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2560.1600@192dpi" x="1278" y="678" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2560.1600@192dpi" x="544" y="450" />
+    <location key="#Project_Structure.0.0.2560.1600@192dpi" x="480" y="86" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1600@192dpi" x="208" y="80" />
+    <location key="#com.intellij.ide.macro.MacrosDialog.0.0.2560.1600@192dpi" x="876" y="180" />
+    <location key="EnvironmentVariablesDialog.0.0.2560.1600@192dpi" x="810" y="322" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.2560.1600@192dpi" x="774" y="344" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.2560.1600@192dpi" x="784" y="430" />
+    <location key="SettingsEditor.0.0.2560.1600@192dpi" x="244" y="0" />
+    <location key="#VisualVM_Launcher.0.0.2560.1600@192dpi" x="480" y="86" />
+    <location key="#Notifications.0.0.2560.1600@192dpi" x="480" y="86" />
+    <location key="#com.intellij.unscramble.UnscrambleDialog.0.0.2560.1600@192dpi" x="650" y="58" />
+    <location key="new project wizard.0.0.2560.1600@192dpi" x="508" y="118" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.2560.1600@192dpi" x="520" y="172" />
+    <location key="IDE.errors.dialog.0.0.2560.1600@192dpi" x="390" y="236" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.2560.1600@192dpi" x="944" y="214" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.2560.1600@192dpi" x="630" y="108" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1600@192dpi" x="906" y="188" />
+    <location key="#Inspections.0.0.2560.1600@192dpi" x="480" y="86" />
+    <location key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.2560.1600@192dpi" x="704" y="556" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.2560.1600@192dpi" x="756" y="320" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.2560.1600@192dpi" x="802" y="394" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.2560.1600@192dpi" x="536" y="146" />
+    <location key="#&lt;default&gt;.0.0.2560.1600@192dpi" x="590" y="22" />
+    <location key="#codes.fer.0.0.2560.1600@192dpi" x="590" y="22" />
+    <location key="chooseDestDirectoryDialog.0.0.2560.1600@192dpi" x="870" y="328" />
+    <location key="#MarketplaceTest2_(2).0.0.2560.1600@192dpi" x="426" y="0" />
+    <location key="#Intentions.0.0.2560.1600@192dpi" x="480" y="86" />
+    <location key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog.0.0.2560.1600@192dpi" x="866" y="478" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1600@192dpi" width="2184" height="1352" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1600@192dpi" width="2476" height="334" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1600@192dpi" width="2476" height="334" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1600@192dpi" width="2476" height="334" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1600@192dpi" width="2476" height="334" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1600@192dpi" width="2476" height="478" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1600@192dpi" width="2476" height="478" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1600@192dpi" width="2476" height="478" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1600@192dpi" width="2476" height="478" />
+    <size key="#MarketplaceTest2_(2).0.0.2560.1600@192dpi" width="1706" height="1512" />
+    <size key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog.0.0.2560.1600@192dpi" width="824" height="556" />
+    <size key="GridCell.Tab.0.left.0.0.1280.800" width="1238" height="193" />
+    <size key="GridCell.Tab.0.center.0.0.1280.800" width="1238" height="193" />
+    <size key="GridCell.Tab.0.right.0.0.1280.800" width="1238" height="193" />
+    <size key="GridCell.Tab.0.bottom.0.0.1280.800" width="1238" height="193" />
+  </component>
+</application>

