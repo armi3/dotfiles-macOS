@@ -7,6 +7,8 @@
 │   ├── Brewfile
 │   └── mackup
 │       ├── .mackup.cfg
+│       ├── .docker
+│       ├── .ssh
 │       └── Library
 ├── environment
 │   ├── .alias
