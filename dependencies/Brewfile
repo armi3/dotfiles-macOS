@@ -25,6 +25,7 @@ brew "zsh"
 brew "zsh-completions"
 brew "tmux"
 brew "tree"
+brew "cheat"
 
 # dev
 brew "cmake"
@@ -39,6 +40,7 @@ brew "maven"
 # etc
 brew "hwloc"
 brew "irssi"
+brew "mackup"
 
 # casks
 cask_args appdir: "/Applications"
@@ -70,3 +72,4 @@ cask "the-unarchiver"
 cask "transmission"
 cask "xquartz"
 cask "zenmap"
+
