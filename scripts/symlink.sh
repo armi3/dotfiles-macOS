@@ -13,3 +13,5 @@ done
 for dotfile in "${dotfiles_runcoms[@]}";do
  ln -sfv "${dir_runcoms}/${dotfile}" "${HOME}" 
 done
+
+ln -sfv "${HOME}/dotfiles-macOS/dependencies/Brewfile" "${HOME}"
