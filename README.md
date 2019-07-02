@@ -4,7 +4,7 @@
 ```
 ├── README.md
 ├── dependencies
-│   ├── Brewfile
+│   └── Brewfile
 ├── environment
 │   ├── .alias
 │   ├── .bindkeys
