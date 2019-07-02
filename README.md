@@ -3,6 +3,8 @@
 
 ```
 ├── README.md
+├── dependencies
+│   ├── Brewfile
 ├── environment
 │   ├── .alias
 │   ├── .bindkeys
