@@ -8,7 +8,7 @@ export EDITOR='vim'
 
 export MANPATH=/usr/local/man
 
-export VIM=/usr/local/Cellar/vim/8.1.1550/share/vim/vim81
+export VIM=/usr/local/Cellar/vim/8.1.1600/share/vim/vim81
 
 # Prefer US English and use UTF-8.
 export LANG='en_US.UTF-8';

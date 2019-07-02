@@ -1,5 +1,3 @@
-" Make shell interactive so I can use my aliases and all
-set shellcmdflag=-ic
 " Use the Solarized Dark theme
 set background=dark
 " Make Vim more useful

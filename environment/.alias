@@ -14,8 +14,8 @@ alias treeh="tree -a"
 alias treeh1="tree -a -L 1"
 alias treeh2="tree -a -L 2"
 
-alias vim=/usr/local/Cellar/vim/8.1.1550/bin/vim
-alias vimtutor="vim -n /usr/local/Cellar/vim/8.1.1550/share/vim/vim81/tutor/tutor"
+alias vim=/usr/local/Cellar/vim/8.1.1600/bin/vim
+alias vimtutor="vim -n /usr/local/Cellar/vim/8.1.1600/share/vim/vim81/tutor/tutor"
 
 # alias functions="declare -f | grep '^[a-z].* ()' | sed 's/{$//'"
 alias paths='echo -e ${PATH//:/\\n}'
